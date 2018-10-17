@@ -23,7 +23,7 @@ Route::get('/payment-method', function () {
     return view('user.payment.payment-method');
 });
 
-Route::get('/payment', function () {
+Route::get('/payment-bill', function () {
     return view('user.payment.payment-bill');
 });
 

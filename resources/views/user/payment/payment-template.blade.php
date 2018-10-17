@@ -8,12 +8,12 @@
     <link rel="stylesheet" href="{{asset('assets/css/payment.min.css')}}">
 
 </head>
-<body>
+<body class="responsive-checkout">
     <div id="header" class="center">
             <div class="center-container group">
                 <div class="logo">
-                    <a href="http://www.mattressonline.co.uk/" title="Return to homepage">
-                        <img src="https://secure.mattressonline.co.uk/theme/mattressonline-v5/content/images/mattressonline-logo-2.png" width="278" height="54" alt="MattressOnline - helping your and your family sleep better">
+                    <a href="/" title="Return to homepage">
+                        <img src="{{asset('assets/img/logo/logo(265x120).png')}}" height="54" alt="MattressOnline - helping your and your family sleep better">
                     </a>
                 </div>
                 <!--<div class="top-banner"> //Turned off at this point for less distraction
@@ -24,7 +24,7 @@
                             <strong>01709 780 881</strong>
                 <!-- original -->
                 <!-- <strong>01709 780 881</strong> -->
-                <span>24/24 h</span>
+                <span>Hỗ trợ 24/24</span>
             </div>
                     </div>
         </div>
