@@ -76,7 +76,7 @@ class CategoryController extends Controller {
      */
     protected function grid() {
         $grid = new Grid(new Category);
-
+        $grid->expandFilter();
         $grid->filter(function($filter) {
 
             // Remove the default id filter
@@ -84,12 +84,11 @@ class CategoryController extends Controller {
 
             // Add a column filter
             $filter->like('Name', 'Name');
-//            $filter->where(function ($query) {
-//
-//                $query->whereHas('profile', function ($query) {
-//                    $query->where('address', 'like', "%{$this->input}%")->orWhere('email', 'like', "%{$this->input}%");
-//                });
-//            }, 'Address or mobile');
+            $filter->where(function ($query) {
+
+                $query->where('name', 'like', "%{$this->input}%")
+                        ->orWhere('content', 'like', "%{$this->input}%");
+            }, 'Parent');
         });
 
         $grid->id('Id')->sortable();

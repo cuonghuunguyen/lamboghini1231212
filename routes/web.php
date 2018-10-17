@@ -31,6 +31,12 @@ Route::get('/pay-process', function () {
     return view('user.payment.pay-process');
 });
 
+<<<<<<< HEAD
 Route::get('/list', function () {
     return view('user.list');
 });
+=======
+Route::get('/product-detail', function () {
+    return view('user.productDetailhuucuong');
+});
+>>>>>>> productdetail
