@@ -14,3 +14,19 @@
 Route::get('/', function () {
     return view('user.homepage');
 });
+
+Route::get('/cart', function () {
+    return view('user.payment.payment-cart');
+});
+
+Route::get('/payment-method', function () {
+    return view('user.payment.payment-method');
+});
+
+Route::get('/payment', function () {
+    return view('user.payment.payment-bill');
+});
+
+Route::get('/pay-process', function () {
+    return view('user.payment.pay-process');
+});

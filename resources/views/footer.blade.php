@@ -2,23 +2,7 @@
     <div class="footer">
         <div class="ground-floor frame-full-width x----v5">
             <div class="row">
-                <section class="nbf col-md-3 col-sm-3">
-                    <h4>National Bed Federation</h4><a href="Awards.html" mo-type="navigation" mo-id="footer navigation"
-                        mo-value="nbf"><img width="144" height="144" class="footer-award-img" alt="National Bed Federation Retailer of the year 2016 - 2017"
-                            src=assets/icons/1x1.png data-lazy-src="../cdn.mattressonline.co.uk/theme/mattressonline/content/images/nbf-award-winner-16-17.png" /></a>
-                </section>
-                <section class="sale col-md-3 col-sm-3">
-                    <h4>Sale Now On</h4><a href="Shop/Sale-C429/index.html" mo-type="navigation" mo-id="footer navigation"
-                        mo-value="sale"><img width="233" height="209" src=assets/icons/1x1.png data-lazy-src="https://cdn.mattressonline.co.uk/theme/mattressonline/content/images/ground-floor-sale.png"
-                            alt="Sale: Up to 70% off"></a>
-                </section>
-                <section class="trust-pilot col-md-3 col-sm-3">
-                    <h4>5 <span class="glyphicon glyphicon-star"></span> Service</h4><a href="Reviews.html" title="See reviews on https://trustpilot.co.uk"
-                        mo-type="navigation" mo-id="footer navigation" mo-value="trust pilot"><img src="../cdn.mattressonline.co.uk/theme/mattressonline/content/images/ground-floor-trust-pilot.png"
-                            alt="Trustpilot Reviews" /></a>
-                    <p>"Great product at a great price with delivery as promised!"</p>
-                    <p>- Jason Hiscocks</p>
-                </section>
+               
             </div>
         </div>
         <div class="x____wrapper x____wrapper--p0">
