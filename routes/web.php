@@ -30,3 +30,7 @@ Route::get('/payment-bill', function () {
 Route::get('/pay-process', function () {
     return view('user.payment.pay-process');
 });
+
+Route::get('/list', function () {
+    return view('user.list');
+});
