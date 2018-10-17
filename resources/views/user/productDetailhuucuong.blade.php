@@ -1,4 +1,7 @@
 @extends('index')
+<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.7" type="text/css" media="screen" />
+<link rel="stylesheet" href="/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 @section('content')
 <div class="viewport">
     <div class="x____wrapper clearfix frame-full-width">
@@ -22,20 +25,23 @@
                         <div class="x____product__gallery" mo-id="Product gallery" mo-subject="68" mo-type="control">
                             <div class="images">
                                 <div class="main" mo-value="featured image"><a class="fancybox-thumb" rel="main-image-thumbnails"
-                                        title="Amy Kiddies Cotton Mattress" href="http://localhost:8000/assets/content/products/full/amy_kiddies_matt.jpg"
-                                        target="_blank"><img src="http://localhost:8000/assets/content/products/full/amy_kiddies_matt.jpg"
-                                            data-mo-processing="true"></a></div>
+                                        title="Aloe Vera Memory Foam Pillow" href="/assets/content/products/full/aloe-vera-memory-foam-pillow.jpg"
+                                        target="_blank"><img src=../assets/icons/1x1.png data-src="/assets/content/products/full/aloe-vera-memory-foam-pillow.jpg"></a></div>
                                 <div class="gallery"><a class="fancybox-thumb" rel="product-images" mo-value="gallery thumbnail (position: 1)"
-                                        title="Amy Kiddies Cotton Mattress" class="fancybox" href="http://localhost:8000/assets/content/products/full/amy_kiddies_matt.jpg"
-                                        target="_blank"><img height="42" src="http://localhost:8000/assets/content/products/65x40/amy_kiddies_matt.jpg"
-                                            data-mo-processing="true"></a><a class="fancybox-thumb" rel="product-images"
-                                        mo-value="gallery thumbnail (position: 2)" title="Amy Kiddies Cotton Mattress"
-                                        href="http://localhost:8000/assets/content/products/full/amy_kiddies_mattress_group.jpg"
-                                        target="_blank"><img height="42" src="http://localhost:8000/assets/content/products/65x40/amy_kiddies_mattress_group.jpg"
-                                            data-mo-processing="true"></a><a class="fancybox-thumb hidden" rel="main-image-thumbnails"
-                                        title="Amy Kiddies Cotton Mattress" href="http://localhost:8000/assets/content/products/full/amy_kiddies_mattress_group.jpg"
-                                        target="_blank"><img height="42" src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/assets/content/products/65x40/amy_kiddies_mattress_group.jpg"
-                                            data-mo-processing="true"></a></div>
+                                        title="Aloe Vera Memory Foam Pillow" href="/assets/content/products/full/aloe-vera-memory-foam-pillow.jpg"
+                                        target="_blank"><img height="42" src=../assets/icons/1x1.png data-lazy-src="/assets/content/products/65x40/aloe-vera-memory-foam-pillow.jpg"></a><a
+                                        class="fancybox-thumb" rel="product-images" mo-value="gallery thumbnail (position: 2)"
+                                        title="Aloe Vera Memory Foam Pillow" href="/assets/content/products/full/aloe-vera-memory-foam-pillow-top.jpg"
+                                        target="_blank"><img height="42" src=../assets/icons/1x1.png data-lazy-src="/assets/content/products/65x40/aloe-vera-memory-foam-pillow-top.jpg"></a><a
+                                        class="fancybox-thumb" rel="product-images" mo-value="gallery thumbnail (position: 3)"
+                                        title="Aloe Vera Memory Foam Pillow" href="/assets/content/products/full/aloe-vera-memory-foam-pillow-side.jpg"
+                                        target="_blank"><img height="42" src=../assets/icons/1x1.png data-lazy-src="/assets/content/products/65x40/aloe-vera-memory-foam-pillow-side.jpg"></a><a
+                                        class="fancybox-thumb hidden" rel="main-image-thumbnails" title="Aloe Vera Memory Foam Pillow"
+                                        href="/assets/content/products/full/aloe-vera-memory-foam-pillow-top.jpg"
+                                        target="_blank"><img height="42" src="../assets/icons/1x1.png" data-lazy-src="/assets/content/products/65x40/aloe-vera-memory-foam-pillow-top.jpg"></a><a
+                                        class="fancybox-thumb hidden" rel="main-image-thumbnails" title="Aloe Vera Memory Foam Pillow"
+                                        href="/assets/content/products/full/aloe-vera-memory-foam-pillow-side.jpg"
+                                        target="_blank"><img height="42" src="../assets/icons/1x1.png" data-lazy-src="/assets/content/products/65x40/aloe-vera-memory-foam-pillow-side.jpg"></a></div>
                             </div>
                         </div>
                     </div>
@@ -54,22 +60,18 @@
                                             <div class="percent">Up to <span>40%</span> off</div>
                                         </div>
                                         <div class="x____price-point">
-                                            <div class="sale"><span>From only&nbsp; </span><span class="price">£94.95</span></div>
-                                            <div class="saving x----v5"> With savings up to: <span>£75.00</span></div>
-                                            <div class="saving x----v5"> You save: £75.00 </div>
+                                            <div class="sale"><span>Chỉ từ&nbsp; </span><span class="price">940.000 VNĐ</span></div>
+                                            <div class="saving x----v5"> Khuyến mãi:  <span>140.000VNĐ</span></div>
+                                            <div class="saving x----v5"> Tiết kiệm: 140.000VNĐ </div>
                                         </div>
                                     </div>
                                     <div class="x----v5">
                                         <div class="availability">
-                                            <div class="in-stock"> In stock: <div class="delivery-cutoff"> Order in the
-                                                    next
-                                                    <strong>10
-                                                        hours 10 minutes 28 seconds</strong> for delivery on <strong>Saturday,
-                                                        13th October</strong></div>
+                                            <div class="in-stock"> Còn hàng
                                             </div>
                                             <div class="delivery" data-toggle="tooltip" data-placement="top" title=""
                                                 data-original-title="Please select from the product options above before choosing a delivery date.">
-                                                <h4>Choose your Delivery Date:</h4><select class="form-control"
+                                                <h4>Chọn ngày chuyển hàng:</h4><select class="form-control"
                                                     disabled="" commersive-delivery-date="">
                                                     <option value="2018-10-13"> Sat, 13th Oct 2018 (+£17.50)
                                                     </option>
@@ -103,16 +105,11 @@
                                                 </select>
                                             </div>
                                         </div><a onclick="$('#no-options, #mobile-no-options').css('display', 'block');"
-                                            class="btn bottom btn-success btn-lg btn-block">Add
-                                            to Basket</a>
-                                        <div id="no-options" style="display: none; color: #f6585d;">Please select the
-                                            options
-                                            you would
-                                            like before adding to the basket</div>
+                                            class="btn bottom btn-success btn-lg btn-block">Thêm vào giỏ hàng</a>
+                                        <div id="no-options" style="display: none; color: #f6585d;">Chọn tùy chọn kèm theo để thêm vào giỏ hàng</div>
                                     </div>
                                 </div><!-- mock product variation modal -->
-                                <div class="x____dialogue x----v3" id="purchase-options-dialogue"><span class="x____dialogue__text">Please
-                                        make the following selections and click Buy to add the item to your basket:</span>
+                                <div class="x____dialogue x----v3" id="purchase-options-dialogue"><span class="x____dialogue__text">Chọn tùy chọn và nhấn vào thêm vào giỏ hàng để thêm sản phẩm vào giỏ hàng</span>
                                     <div class="x____dialogue__colwrap"></div><!-- end -->
                                     <div class="actions">
                                         <!-- Buy --><input onclick="" class="btn btn-success x____btn" value="Buy" type="button"><!-- Cancel --><input
@@ -132,20 +129,18 @@
                                 <div class="mini-benefits">
                                     <div class="benefits">
                                         <ul class="top">
-                                            <li>In Stock</li>
-                                            <li>Free Next Day Delivery</li>
-                                            <li>Type: Standard Sprung</li>
-                                            <li>Firmness: Medium (3)</li>
-                                            <li>Depth: 20cm</li>
-                                            <li>Guarantee: 1 Year</li>
+                                            <li>Còn hàng</li>
+                                            <li>Loại: Gối mềm</li>
+                                            <li>Dày: 20cm</li>
+                                            <li>Bảo hành: 1 năm</li>
                                         </ul>
                                     </div>
                                 </div>
 
                                 <div class="guides x----v5">
                                     <ul>
-                                        <li><a href="../Advice%23buying-advice.html#size-guide">Mattress Size Guide</a></li>
-                                        <li><a href="../Delivery.html">Delivery Information</a></li>
+                                        <li><a href="../Advice%23buying-advice.html#size-guide">Hướng dẫn về chọn kích cỡ đệm</a></li>
+                                        <li><a href="../Delivery.html">Thông tin chuyển giao</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -153,7 +148,7 @@
                     </div>
                 </div><span class="hide-v5"></span>
                 <div class="hidden">
-                    <div class="options"><span>Product options:</span> size Size... size-uk-single Single (3' x
+                    <div class="options"><span>Tùy chọn của sản phẩm:</span> size Size... size-uk-single Single (3' x
                         6'3") Size...<br><br><br>label: Size <br> Single<br> (3' x 6'3")<br></div>
                     <div class="availability">
                         <div class="in-stock"> In stock: <div class="delivery-cutoff"> Order in the next <strong>10
@@ -243,7 +238,7 @@
                 </div><span class="hide-v5"></span>
                 <div class="x____tabs-container">
                     <ul class="x____tabs-navigation x----v3" mo-id="Product tabs" mo-subject="68">
-                        <li data-tab="colours" mo-value="Colours">Colours</li>
+                        <li data-tab="colours" mo-value="Colours">Màu sắc</li>
                         <li data-tab="benefits" class="" mo-value="Benefits">Benefits</li>
                         <li data-tab="specifications" mo-value="Specifications" class="">Specifications</li>
                         <li data-tab="description" mo-value="Description" class="is-active">Description</li>
@@ -402,18 +397,365 @@
 
                     </ul>
                 </div>
+                <div id="reviews" class="reviews" data-mobile-index="14">
+                    
+                    <section class="all expanded">
+                        <div class="info">
+                            <div class="total">
+                                <span class="ng-binding">4</span> Comments
+                            </div>
+                            <div class="addComment">
+                                <a><span class="ink animate" style="height: 126px; width: 126px; top: -45px; left: 13.3906px;"></span>Add
+                                    Comment</a>
+                            </div>
+                        </div>
+                        <div class="list-comment"  style="max-height: 140px;">
+                            <!-- ngRepeat: comment in commentList -->
+                            <section ng-repeat="comment in commentList" repeat-done="commentsRendered()" class="ng-scope">
+                                <div class="comment-row">
+                                    <div class="commentPhoto">
+                                        <img ng-src="https://thoughtcatalog.files.wordpress.com/2018/01/kyle-smith-528234-e1516823451262.jpg?w=192&amp;h=192&amp;crop=1&amp;resize=192,192&amp;quality=95&amp;strip=all"
+                                            alt="" src="https://thoughtcatalog.files.wordpress.com/2018/01/kyle-smith-528234-e1516823451262.jpg?w=192&amp;h=192&amp;crop=1&amp;resize=192,192&amp;quality=95&amp;strip=all">
+                                    </div>
+                                    <div class="commentDetails">
+                                        <span class="commentUser ng-binding">Chelsea Dinen</span>
+                                        <span class="commentDate ng-binding">07 Apr 11:29</span>
+                                        <div class="commentText ng-binding">There should be a nice view up there!</div>
+                                    </div>
+                                </div>
+                            </section><!-- end ngRepeat: comment in commentList -->
+                            <section ng-repeat="comment in commentList" repeat-done="commentsRendered()" class="ng-scope">
+                                <div class="comment-row">
+                                    <div class="commentPhoto">
+                                        <img ng-src="https://s-media-cache-ak0.pinimg.com/236x/6e/74/6e/6e746edc42d8f1b4d78c9b8772fdc214.jpg"
+                                            alt="" src="https://s-media-cache-ak0.pinimg.com/236x/6e/74/6e/6e746edc42d8f1b4d78c9b8772fdc214.jpg">
+                                    </div>
+                                    <div class="commentDetails">
+                                        <span class="commentUser ng-binding">Arne Hjeltnes</span>
+                                        <span class="commentDate ng-binding">07 Apr 14:21</span>
+                                        <div class="commentText ng-binding">Me too I did skydiving once, it was a
+                                            memorable experience!</div>
+                                    </div>
+                                </div>
+                            </section><!-- end ngRepeat: comment in commentList -->
+                            <section ng-repeat="comment in commentList" repeat-done="commentsRendered()" class="ng-scope">
+                                <div class="comment-row">
+                                    <div class="commentPhoto">
+                                        <img ng-src="http://www.opry.com/sites/default/files/artist_profile_photo/saraevans_profile_0.jpg"
+                                            alt="" src="http://www.opry.com/sites/default/files/artist_profile_photo/saraevans_profile_0.jpg">
+                                    </div>
+                                    <div class="commentDetails">
+                                        <span class="commentUser ng-binding">Sarah Evans</span>
+                                        <span class="commentDate ng-binding">07 Apr 23:15</span>
+                                        <div class="commentText ng-binding">Amazing, I would love to try!</div>
+                                    </div>
+                                </div>
+                            </section><!-- end ngRepeat: comment in commentList -->
+                            <section ng-repeat="comment in commentList" repeat-done="commentsRendered()" class="ng-scope">
+                                <div class="comment-row">
+                                    <div class="commentPhoto">
+                                        <img ng-src="https://lh6.googleusercontent.com/-oHRHcrzkBtU/AAAAAAAAAAI/AAAAAAAAAAA/uaXYj35Cwvw/s96-c/photo.jpg"
+                                            alt="" src="https://lh6.googleusercontent.com/-oHRHcrzkBtU/AAAAAAAAAAI/AAAAAAAAAAA/uaXYj35Cwvw/s96-c/photo.jpg">
+                                    </div>
+                                    <div class="commentDetails">
+                                        <span class="commentUser ng-binding">Maurizio Paletti</span>
+                                        <span class="commentDate ng-binding">08 Apr 12:46</span>
+                                        <div class="commentText ng-binding">Yes, it was a great experience, although
+                                            until the parachute opens you feel like a turkey on Thanksgiving Day!</div>
+                                    </div>
+                                </div>
+                            </section><!-- end ngRepeat: comment in commentList -->
+                        </div>
+                        <div class="expandWrap">
+                            <div class="mask" style="display: none;"></div>
+                            <div class="toggleList toggleExpanded"><a><i class="fa fa-angle-double-down"></i></a></div>
+                        </div>
+                    </section>
+                    <style>
+                        
 
+                        section.all {
+                            padding: 20px 10px 15px 10px
+                        }
+
+                        section.all.expanded {
+                            padding-bottom: 25px
+                        }
+
+                        .mask {
+                            background-image: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, 0) 99%);
+                            background-image: -moz-linear-gradient(bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, 0) 99%);
+                            background-image: -ms-linear-gradient(bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, 0) 99%);
+                            background-image: -o-linear-gradient(bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, 0) 99%);
+                            background-image: linear-gradient(bottom, rgba(255, 255, 255, 1) 45%, rgba(255, 255, 255, 0) 99%);
+                            height: 20px;
+                            top: -20px;
+                            position: relative;
+                            z-index: 999
+                        }
+
+                        .info {
+                            padding: 0 10px 10px;
+                            border-bottom: 1px solid #f1f1f1
+                        }
+
+                        .total {
+                            font-size: 14px;
+                            float: left;
+                            width: 50%
+                        }
+
+                        .total span {
+                            font-size: 30px;
+                            font-weight: 700
+                        }
+
+                        .addComment {
+                            display: inline-block;
+                            width: 50%;
+                            overflow: hidden
+                        }
+
+                        .addComment a {
+                            float: right;
+                            background: none repeat scroll 0 0 #4caf50;
+                            border: 1px solid #43a047;
+                            padding: 7px 15px;
+                            color: #fff;
+                            border-radius: 2px;
+                            cursor: default;
+                            font-weight: 500;
+                            font-family: 'Open Sans';
+                            font-size: 14px;
+                            opacity: .8;
+                            -webkit-transition: .2s opacity;
+                            -moz-transition: .2s opacity;
+                            -o-transition: .2s opacity;
+                            transition: .2s opacity;
+                            outline: 0;
+                            position: relative
+                        }
+
+                        .addComment a:hover {
+                            opacity: 1
+                        }
+
+                        .list-comment {
+                            padding: 0 10px;
+                            overflow: hidden;
+                            -webkit-transition: .6s max-height cubic-bezier(.19, 1, .22, 1);
+                            -moz-transition: .6s max-height cubic-bezier(.19, 1, .22, 1);
+                            -o-transition: .6s max-height cubic-bezier(.19, 1, .22, 1);
+                            transition: .6s max-height cubic-bezier(.19, 1, .22, 1)
+                        }
+
+                        .list-comment section {
+                            clear: both
+                        }
+
+                        .list-comment.noComments {
+                            max-height: auto !important
+                        }
+
+                        .comment-row {
+                            padding-top: 10px
+                        }
+
+                        .commentDetails {
+                            float: left;
+                            width: 75%
+                        }
+
+                        .commentPhoto {
+                            float: left;
+                            width: 20%
+                        }
+
+                        .commentPhoto img {
+                            width: 50px;
+                            height: 50px;
+                            border-radius: 100%;
+                            margin-right: 15px
+                        }
+
+                        .commentUser {
+                            font-size: 14px;
+                            font-weight: 700;
+                            float: left
+                        }
+
+                        .commentDate {
+                            font-size: 10px;
+                            float: right;
+                            color: #b1b1b1
+                        }
+
+                        .commentText {
+                            font-size: 12px;
+                            color: #6b6b6b;
+                            clear: both
+                        }
+
+                        .commentText a {
+                            text-decoration: none;
+                            color: #38acff;
+                            -webkit-transition: .2s color;
+                            -moz-transition: .2s color;
+                            -o-transition: .2s color;
+                            transition: .2s color
+                        }
+
+                        .commentText a:hover {
+                            color: #0088ea
+                        }
+
+                        .toggleList a {
+                            color: #5e5e5e;
+                            font-weight: 700;
+                            font-size: 20px;
+                            cursor: default;
+                            opacity: .7;
+                            position: relative
+                        }
+
+                        .toggleList a:hover {
+                            opacity: 1;
+                            top: 1px
+                        }
+
+                        .toggleList {
+                            text-align: center;
+                            margin-top: -20px
+                        }
+
+                        .toggleExpanded {
+                            margin-top: -10px;
+                            transform: rotate(180deg);
+                            position: relative;
+                            bottom: -12px
+                        }
+
+                        .ink {
+                            display: block;
+                            position: absolute;
+                            background: rgba(255, 255, 255, .3);
+                            border-radius: 100%;
+                            -webkit-transform: scale(0);
+                            -moz-transform: scale(0);
+                            -o-transform: scale(0);
+                            transform: scale(0)
+                        }
+
+                        .animate {
+                            -webkit-animation: ripple .5s linear;
+                            -moz-animation: ripple .5s linear;
+                            -ms-animation: ripple .5s linear;
+                            -o-animation: ripple .5s linear;
+                            animation: ripple .5s linear
+                        }
+
+                        @-webkit-keyframes ripple {
+                            100% {
+                                opacity: 0;
+                                -webkit-transform: scale(2.5)
+                            }
+                        }
+
+                        @-moz-keyframes ripple {
+                            100% {
+                                opacity: 0;
+                                -moz-transform: scale(2.5)
+                            }
+                        }
+
+                        @-o-keyframes ripple {
+                            100% {
+                                opacity: 0;
+                                -o-transform: scale(2.5)
+                            }
+                        }
+
+                        @keyframes ripple {
+                            100% {
+                                opacity: 0;
+                                transform: scale(2.5)
+                            }
+                        }
+
+                        @-webkit-keyframes beat {
+                            0% {
+                                -webkit-transform: scale(1)
+                            }
+
+                            50% {
+                                -webkit-transform: scale(1.1)
+                            }
+
+                            100% {
+                                -webkit-transform: scale(1)
+                            }
+                        }
+
+                        @-moz-keyframes beat {
+                            0% {
+                                -moz-transform: scale(1)
+                            }
+
+                            50% {
+                                -moz-transform: scale(1.1)
+                            }
+
+                            100% {
+                                -moz-transform: scale(1)
+                            }
+                        }
+
+                        @-o-keyframes beat {
+                            0% {
+                                -o-transform: scale(1)
+                            }
+
+                            50% {
+                                -o-transform: scale(1.1)
+                            }
+
+                            100% {
+                                -o-transform: scale(1)
+                            }
+                        }
+
+                        @keyframes beat {
+                            0% {
+                                transform: scale(1)
+                            }
+
+                            50% {
+                                transform: scale(1.1)
+                            }
+
+                            100% {
+                                transform: scale(1)
+                            }
+                        }
+                        .expandWrap {
+                            padding-top: 13px;
+                        }
+                    </style>
+                </div>
             </div>
         </div>
     </div>
 </div>
-<script src="js\jquery.fancybox-buttons3447.js"></script>
-<script src="js\jquery.fancybox-mediac924.js"></script>
-<script src="js\jquery.fancybox-thumbsf2ad.js"></script>
-<script src="js\jquery.fancybox8cbb.js"></script>
+{{--
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox8cbb.css?v=2.1.5" media="screen">
+<link rel="stylesheet" type="text/css" href="/js/fancybox/helpers/jquery.fancybox-buttons3447.css?v=1.0.5"> --}}
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" defer src="/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript" defer src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.7"></script>
+{{-- <script type="text/javascript" src="/js/fancybox/helpers/jquery.fancybox-buttons3447.js?v=1.0.5"></script>
+<script type="text/javascript" src="/js/fancybox/helpers/jquery.fancybox-mediac924.js?v=1.0.6"></script> --}}
 <script type="text/javascript">
-    ;
-    $(document).ready(function () {
+    $(document).ready(() => {
         $('.fancybox-thumb').fancybox({
             prevEffect: 'none',
             nextEffect: 'none',
@@ -429,5 +771,30 @@
             }
         })
     });
+
+</script>
+<script>
+var listHeight = '140px';
+
+
+$('.expandWrap').toggle($('.list-comment').prop('scrollHeight') > $('.list-comment').height());
+  // comment expander
+  $('.toggleList a').click(function() {
+    $('.toggleList').toggleClass('toggleExpanded');
+    $('section.all').toggleClass('expanded');
+    $('.mask').toggle();
+
+    var scrollHeight = $('.list-comment').prop('scrollHeight');
+    var height = $('.list-comment').height();
+
+    if (scrollHeight === height) // collapse
+      $('.list-comment').css('max-height', listHeight);
+    else // expand
+      $('.list-comment').css('max-height', `${scrollHeight}px`);
+  });
+
+
+  // default list height
+  $('.list-comment').css('max-height', listHeight);
 </script>
 @endsection
