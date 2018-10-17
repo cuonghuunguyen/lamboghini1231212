@@ -7,7 +7,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{asset('assets/css/app.min41e1.css?v=7e5a5912871416d1a20a009678a8d614')}}" />
+    <link rel="stylesheet" href="{{asset('assets/css/list.css')}}" />
 </head>
 
 <body class="salesCamp--magentle salesCamp--pushAlertActive ">
