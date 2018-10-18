@@ -2,7 +2,7 @@
 
 namespace App\Admin\Controllers;
 
-use App\Product;
+use App\Review;
 use App\Http\Controllers\Controller;
 use Encore\Admin\Controllers\HasResourceActions;
 use Encore\Admin\Form;
@@ -10,7 +10,7 @@ use Encore\Admin\Grid;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Show;
 
-class ProductController extends Controller
+class ReviewController extends Controller
 {
     use HasResourceActions;
 
@@ -79,14 +79,13 @@ class ProductController extends Controller
      */
     protected function grid()
     {
-        $grid = new Grid(new Product);
+        $grid = new Grid(new Review);
 
         $grid->id('Id');
-        $grid->name('Name');
-        $grid->description('Description');
-        $grid->price('Price');
-        $grid->size_id('Size id');
-        $grid->category_id('Category id');
+        $grid->customer_name('Customer name');
+        $grid->customer_email('Customer email');
+        $grid->content('Content');
+        $grid->product_id('Product id');
         $grid->created_at('Created at');
         $grid->updated_at('Updated at');
 
@@ -101,14 +100,13 @@ class ProductController extends Controller
      */
     protected function detail($id)
     {
-        $show = new Show(Product::findOrFail($id));
+        $show = new Show(Review::findOrFail($id));
 
         $show->id('Id');
-        $show->name('Name');
-        $show->description('Description');
-        $show->price('Price');
-        $show->size_id('Size id');
-        $show->category_id('Category id');
+        $show->customer_name('Customer name');
+        $show->customer_email('Customer email');
+        $show->content('Content');
+        $show->product_id('Product id');
         $show->created_at('Created at');
         $show->updated_at('Updated at');
 
@@ -122,13 +120,12 @@ class ProductController extends Controller
      */
     protected function form()
     {
-        $form = new Form(new Product);
+        $form = new Form(new Review);
 
-        $form->text('name', 'Name');
-        $form->textarea('description', 'Description');
-        $form->decimal('price', 'Price');
-        $form->number('size_id', 'Size id');
-        $form->number('category_id', 'Category id');
+        $form->text('customer_name', 'Customer name');
+        $form->text('customer_email', 'Customer email');
+        $form->textarea('content', 'Content');
+        $form->number('product_id', 'Product id');
 
         return $form;
     }

@@ -4,10 +4,10 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Discount extends Model
+class Review extends Model
 {
     protected $fillable = [
-        'product_id', 'persent',
+        'customer_name', 'customer_email', 'content', 'product_id',
     ];
 
     public function product (){

@@ -7,16 +7,14 @@ use Illuminate\Database\Eloquent\Model;
 class BillDetail extends Model
 {
     protected $fillable = [
-        'bill_id', 'product_id','quanlity'
+        'bill_id', 'product_id', 'quantity',
     ];
-    
-    public function bill()
-    {
+
+    public function bill () {
         return $this->belongsTo('App\Bill');
     }
-    
-    public function product()
-    {
+
+    public function product () {
         return $this->belongsTo('App\Product');
     }
 }

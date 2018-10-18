@@ -10,12 +10,14 @@ Route::group([
     'middleware'    => config('admin.route.middleware'),
 ], function (Router $router) {
 
-    $router->get('/xx', 'HomeController@index');
+    $router->get('/', 'HomeController@index');
     
     $router->resource('/categories', CategoryController::class);
     $router->resource('/products', ProductController::class);
     $router->resource('/bills', BillController::class);
     $router->resource('/bill-details', BillDetailController::class);
     $router->resource('/discounts', DiscountController::class);
+    $router->resource('/sizes', SizeController::class);
+    $router->resource('/reviews', ReviewController::class);
     
 });
