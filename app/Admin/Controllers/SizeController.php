@@ -2,7 +2,7 @@
 
 namespace App\Admin\Controllers;
 
-use App\Product;
+use App\Size;
 use App\Http\Controllers\Controller;
 use Encore\Admin\Controllers\HasResourceActions;
 use Encore\Admin\Form;
@@ -10,7 +10,7 @@ use Encore\Admin\Grid;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Show;
 
-class ProductController extends Controller
+class SizeController extends Controller
 {
     use HasResourceActions;
 
@@ -79,14 +79,12 @@ class ProductController extends Controller
      */
     protected function grid()
     {
-        $grid = new Grid(new Product);
+        $grid = new Grid(new Size);
 
         $grid->id('Id');
-        $grid->name('Name');
-        $grid->description('Description');
-        $grid->price('Price');
-        $grid->size_id('Size id');
-        $grid->category_id('Category id');
+        $grid->width('Width');
+        $grid->length('Length');
+        $grid->thickness('Thickness');
         $grid->created_at('Created at');
         $grid->updated_at('Updated at');
 
@@ -101,14 +99,12 @@ class ProductController extends Controller
      */
     protected function detail($id)
     {
-        $show = new Show(Product::findOrFail($id));
+        $show = new Show(Size::findOrFail($id));
 
         $show->id('Id');
-        $show->name('Name');
-        $show->description('Description');
-        $show->price('Price');
-        $show->size_id('Size id');
-        $show->category_id('Category id');
+        $show->width('Width');
+        $show->length('Length');
+        $show->thickness('Thickness');
         $show->created_at('Created at');
         $show->updated_at('Updated at');
 
@@ -122,13 +118,11 @@ class ProductController extends Controller
      */
     protected function form()
     {
-        $form = new Form(new Product);
+        $form = new Form(new Size);
 
-        $form->text('name', 'Name');
-        $form->textarea('description', 'Description');
-        $form->decimal('price', 'Price');
-        $form->number('size_id', 'Size id');
-        $form->number('category_id', 'Category id');
+        $form->number('width', 'Width');
+        $form->number('length', 'Length');
+        $form->number('thickness', 'Thickness');
 
         return $form;
     }

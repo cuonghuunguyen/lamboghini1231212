@@ -82,9 +82,8 @@ class DiscountController extends Controller
         $grid = new Grid(new Discount);
 
         $grid->id('Id');
-        $grid->name('Name');
         $grid->product_id('Product id');
-        $grid->discount_persent('Discount persent');
+        $grid->persent('Persent');
         $grid->created_at('Created at');
         $grid->updated_at('Updated at');
 
@@ -102,9 +101,8 @@ class DiscountController extends Controller
         $show = new Show(Discount::findOrFail($id));
 
         $show->id('Id');
-        $show->name('Name');
         $show->product_id('Product id');
-        $show->discount_persent('Discount persent');
+        $show->persent('Persent');
         $show->created_at('Created at');
         $show->updated_at('Updated at');
 
@@ -120,9 +118,8 @@ class DiscountController extends Controller
     {
         $form = new Form(new Discount);
 
-        $form->text('name', 'Name');
         $form->number('product_id', 'Product id');
-        $form->decimal('discount_persent', 'Discount persent');
+        $form->number('persent', 'Persent');
 
         return $form;
     }

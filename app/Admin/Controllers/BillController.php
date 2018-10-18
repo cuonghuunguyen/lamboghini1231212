@@ -83,8 +83,8 @@ class BillController extends Controller
 
         $grid->id('Id');
         $grid->customer_name('Customer name');
-        $grid->customer_phone('Customer phone');
         $grid->customer_email('Customer email');
+        $grid->customer_phone('Customer phone');
         $grid->created_at('Created at');
         $grid->updated_at('Updated at');
 
@@ -103,8 +103,8 @@ class BillController extends Controller
 
         $show->id('Id');
         $show->customer_name('Customer name');
-        $show->customer_phone('Customer phone');
         $show->customer_email('Customer email');
+        $show->customer_phone('Customer phone');
         $show->created_at('Created at');
         $show->updated_at('Updated at');
 
@@ -121,8 +121,8 @@ class BillController extends Controller
         $form = new Form(new Bill);
 
         $form->text('customer_name', 'Customer name');
-        $form->text('customer_phone', 'Customer phone');
         $form->text('customer_email', 'Customer email');
+        $form->text('customer_phone', 'Customer phone');
 
         return $form;
     }

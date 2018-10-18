@@ -2,7 +2,6 @@
 
 namespace App\Admin\Controllers;
 
-use \Illuminate\Support\Facades\DB;
 use App\Category;
 use App\Http\Controllers\Controller;
 use Encore\Admin\Controllers\HasResourceActions;
@@ -11,8 +10,8 @@ use Encore\Admin\Grid;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Show;
 
-class CategoryController extends Controller {
-
+class CategoryController extends Controller
+{
     use HasResourceActions;
 
     /**
@@ -21,11 +20,12 @@ class CategoryController extends Controller {
      * @param Content $content
      * @return Content
      */
-    public function index(Content $content) {
+    public function index(Content $content)
+    {
         return $content
-                        ->header('Index')
-                        ->description('description')
-                        ->body($this->grid());
+            ->header('Index')
+            ->description('description')
+            ->body($this->grid());
     }
 
     /**
@@ -35,11 +35,12 @@ class CategoryController extends Controller {
      * @param Content $content
      * @return Content
      */
-    public function show($id, Content $content) {
+    public function show($id, Content $content)
+    {
         return $content
-                        ->header('Detail')
-                        ->description('description')
-                        ->body($this->detail($id));
+            ->header('Detail')
+            ->description('description')
+            ->body($this->detail($id));
     }
 
     /**
@@ -49,11 +50,12 @@ class CategoryController extends Controller {
      * @param Content $content
      * @return Content
      */
-    public function edit($id, Content $content) {
+    public function edit($id, Content $content)
+    {
         return $content
-                        ->header('Edit')
-                        ->description('description')
-                        ->body($this->form()->edit($id));
+            ->header('Edit')
+            ->description('description')
+            ->body($this->form()->edit($id));
     }
 
     /**
@@ -62,11 +64,12 @@ class CategoryController extends Controller {
      * @param Content $content
      * @return Content
      */
-    public function create(Content $content) {
+    public function create(Content $content)
+    {
         return $content
-                        ->header('Create')
-                        ->description('description')
-                        ->body($this->form());
+            ->header('Create')
+            ->description('description')
+            ->body($this->form());
     }
 
     /**
@@ -74,34 +77,15 @@ class CategoryController extends Controller {
      *
      * @return Grid
      */
-    protected function grid() {
+    protected function grid()
+    {
         $grid = new Grid(new Category);
-        $grid->expandFilter();
-        $grid->filter(function($filter) {
 
-            // Remove the default id filter
-            $filter->disableIdFilter();
-
-            // Add a column filter
-            $filter->like('Name', 'Name');
-            $filter->where(function ($query) {
-
-                $query->where('name', 'like', "%{$this->input}%")
-                        ->orWhere('content', 'like', "%{$this->input}%");
-            }, 'Parent');
-        });
-
-        $grid->id('Id')->sortable();
-        $grid->name('Name')->sortable();
-        $grid->column('category_parent')->display(function () {
-            if ($this->parent_id != 0) {
-                return DB::table('categories')->find($this->parent_id)->name;
-            } else {
-                return "Root";
-            }
-        });
-        $grid->created_at('Created at')->sortable();
-        $grid->updated_at('Updated at')->sortable();
+        $grid->id('Id');
+        $grid->name('Name');
+        $grid->parent_id('Parent id');
+        $grid->created_at('Created at');
+        $grid->updated_at('Updated at');
 
         return $grid;
     }
@@ -112,7 +96,8 @@ class CategoryController extends Controller {
      * @param mixed $id
      * @return Show
      */
-    protected function detail($id) {
+    protected function detail($id)
+    {
         $show = new Show(Category::findOrFail($id));
 
         $show->id('Id');
@@ -129,7 +114,8 @@ class CategoryController extends Controller {
      *
      * @return Form
      */
-    protected function form() {
+    protected function form()
+    {
         $form = new Form(new Category);
 
         $form->text('name', 'Name');
@@ -137,5 +123,4 @@ class CategoryController extends Controller {
 
         return $form;
     }
-
 }
