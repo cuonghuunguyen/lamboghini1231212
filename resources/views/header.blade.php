@@ -51,9 +51,9 @@
     <div class="nav__container">
         
         <div class="nav__global-link-container"><a href="index.html" class="nav__global-link " mo-value="Home">
-                Trang chủ </a></div><div class="nav__global-link-container"><a href="Shop/Mattresses-C136/index.html" class="nav__global-link has-child-links">Nệm</a>
+                Trang chủ </a></div><div class="nav__global-link-container"><a href="list" class="nav__global-link has-child-links">Nệm</a>
             <div class="nested-nav nested-nav--3 has-view-all-link"><a class="nested-nav__back-link">Về menu chính</a>
-                <div class="nested-nav__heading" href="Shop/Mattresses-C136/index.html">Nệm</div><a id="nested-nav-mattresses" href="Shop/Mattresses-C136/index.html" class="nested-nav__view-all-link">View all Mattresses</a>
+                <div class="nested-nav__heading" href="list">Nệm</div><a id="nested-nav-mattresses" href="list" class="nested-nav__view-all-link">View all Mattresses</a>
                 <div class="nested-nav__group">
                     <div class="nested-nav__group-heading ">Theo kích thước</div>
                     <div class="nested-nav__items"><a id="global-nav-small-single-2-6" href="Shop/Mattresses-C136/Small-Single-F345/index.html" class="nested-nav__item">Small Single (2'6")</a><a id="global-nav-single-3-0" href="Shop/Mattresses-C136/Single-F23/index.html" class="nested-nav__item">Đơn

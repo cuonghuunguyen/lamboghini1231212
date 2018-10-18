@@ -35,7 +35,7 @@
             <div class="page-content with-facet-list">
                 <div class="countdown-target"></div>
                 <div class="x____specify-results">
-                    <form method="GET" action="/Shop/Sale-C429/">
+                    <form method="GET" action="/list">
                         <div class="facet-list hidden-xs x----v3">
                             <div class="refine-header">
                                 <h4>Tìm kiếm chi tiết</h4>
@@ -54,7 +54,7 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/New-In-F2441/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Mới <span class="count">(72)</span></label>
                                                 <label class="hidden-xs">
                                                     <input name="F[]" value="New-In-F2441" type="checkbox"> Mới
@@ -71,7 +71,7 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     120 x 190 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -82,7 +82,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     120 x 200 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -93,7 +93,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     150 x 190 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -104,7 +104,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     140 x 200 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -115,7 +115,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     160 x 200 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -126,7 +126,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     180 x 200 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -137,7 +137,7 @@
 
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Superking-Zip-and-Link-F600/">
+                                                    <input type="checkbox" data-url="/list">
                                                     200 x 220 (cm)
                                                 </label>
                                                 <label class="hidden-xs">
@@ -168,7 +168,7 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Đệm lò xo
                                                 </label>
                                                 <label class="hidden-xs">
@@ -179,7 +179,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Đệm bông ép và cao su
                                                 </label>
                                                 <label class="hidden-xs">
@@ -190,7 +190,7 @@
 
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Chăn ga gối
                                                 </label>
                                                 <label class="hidden-xs">
@@ -201,7 +201,7 @@
 
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Ruột gối
                                                 </label>
                                                 <label class="hidden-xs">
@@ -212,7 +212,7 @@
 
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     Chăn
                                                 </label>
                                                 <label class="hidden-xs">
@@ -244,7 +244,7 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     100k - 500k
                                                 </label>
                                                 <label class="hidden-xs">
@@ -254,7 +254,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     500k - 1000k
                                                 </label>
                                                 <label class="hidden-xs">
@@ -264,7 +264,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     1000k - 2000k
                                                 </label>
                                                 <label class="hidden-xs">
@@ -274,7 +274,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     2000k - 5000k
                                                 </label>
                                                 <label class="hidden-xs">
@@ -293,7 +293,7 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     DAIHAN
                                                 </label>
                                                 <label class="hidden-xs">
@@ -303,7 +303,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     ACNES
                                                 </label>
                                                 <label class="hidden-xs">
@@ -313,7 +313,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     RAINA
                                                 </label>
                                                 <label class="hidden-xs">
@@ -323,7 +323,7 @@
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     TECHWOOD
                                                 </label>
                                                 <label class="hidden-xs">
@@ -333,7 +333,7 @@
                                             </li>
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    <input type="checkbox" data-url="/list">
                                                     KOREA
                                                 </label>
                                                 <label class="hidden-xs">
@@ -378,42 +378,42 @@
                     <div class="show-products col-xs-6"><span class="hidden-xs">Hiển thị </span><span class="x----v3-inline">
                             1-12 </span>
                         <select name="ItemsPerPage" class="form-control items-per-page x----v5">
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=6">6</option>
-                            <option value="/Shop/Sale-C429/" selected="">12</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=24">24</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=48">48</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=0">All</option>
+                            <option value="/list">6</option>
+                            <option value="/list">12</option>
+                            <option value="/list">24</option>
+                            <option value="/list">48</option>
+                            <option value="/list">All</option>
                         </select> trong <span class="number-of-results">254 sản phẩm</span></div>
                     <div class="page-numbers col-xs-6">
                         <div class="x----v5"> Trang
                             <select name="Page" class="form-control page">
-                                <option value="/Shop/Sale-C429/" selected="">1</option>
-                                <option value="/Shop/Sale-C429/?Page=2">2</option>
-                                <option value="/Shop/Sale-C429/?Page=3">3</option>
-                                <option value="/Shop/Sale-C429/?Page=4">4</option>
-                                <option value="/Shop/Sale-C429/?Page=5">5</option>
-                                <option value="/Shop/Sale-C429/?Page=6">6</option>
-                                <option value="/Shop/Sale-C429/?Page=7">7</option>
-                                <option value="/Shop/Sale-C429/?Page=8">8</option>
-                                <option value="/Shop/Sale-C429/?Page=9">9</option>
-                                <option value="/Shop/Sale-C429/?Page=10">10</option>
-                                <option value="/Shop/Sale-C429/?Page=11">11</option>
-                                <option value="/Shop/Sale-C429/?Page=12">12</option>
-                                <option value="/Shop/Sale-C429/?Page=13">13</option>
-                                <option value="/Shop/Sale-C429/?Page=14">14</option>
-                                <option value="/Shop/Sale-C429/?Page=15">15</option>
-                                <option value="/Shop/Sale-C429/?Page=16">16</option>
-                                <option value="/Shop/Sale-C429/?Page=17">17</option>
-                                <option value="/Shop/Sale-C429/?Page=18">18</option>
-                                <option value="/Shop/Sale-C429/?Page=19">19</option>
-                                <option value="/Shop/Sale-C429/?Page=20">20</option>
-                                <option value="/Shop/Sale-C429/?Page=21">21</option>
-                                <option value="/Shop/Sale-C429/?Page=22">22</option>
-                            </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/Shop/Sale-C429/?Page=2"><span
+                                <option value="/list">1</option>
+                                <option value="/list">2</option>
+                                <option value="/list">3</option>
+                                <option value="/list">4</option>
+                                <option value="/list">5</option>
+                                <option value="/list">6</option>
+                                <option value="/list">7</option>
+                                <option value="/list">8</option>
+                                <option value="/list">9</option>
+                                <option value="/list">10</option>
+                                <option value="/list">11</option>
+                                <option value="/list">12</option>
+                                <option value="/list">13</option>
+                                <option value="/list">14</option>
+                                <option value="/list">15</option>
+                                <option value="/list">16</option>
+                                <option value="/list">17</option>
+                                <option value="/list">18</option>
+                                <option value="/list">19</option>
+                                <option value="/list">20</option>
+                                <option value="/list">21</option>
+                                <option value="/list">22</option>
+                            </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/list"><span
                                     class="glyphicon glyphicon-chevron-right"></span></a></div>
-                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a>
-                            <a href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
-                            | <a href="/Shop/Sale-C429/?ItemsPerPage=0">Tất cả</a></div>
+                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/list">2</a>
+                            <a href="/list">Tiếp&gt;</a>
+                            | <a href="/list">Tất cả</a></div>
                     </div>
                 </div>
 
@@ -422,18 +422,18 @@
                         Sắp xếp theo:
                         <span class="x____dropdown-container">
                             <select name="SortBy" class=" form-control sort-by x----v5 ">
-                                <option value="/Shop/Sale-C429/" selected="">Độ liên quan</option>
-                                <option value="/Shop/Sale-C429/?Sort=discount+desc">Khuyễn mãi</option>
-                                <option value="/Shop/Sale-C429/?Sort=price+desc">Giá: Giảm dần</option>
-                                <option value="/Shop/Sale-C429/?Sort=price+asc">Giá: Tăng dần</option>
+                                <option value="/list">Độ liên quan</option>
+                                <option value="/list">Khuyễn mãi</option>
+                                <option value="/list">Giá: Giảm dần</option>
+                                <option value="/list">Giá: Tăng dần</option>
                             </select>
                             <div data-dropdown="SortBy" class="fancy-dropdown x----v3">
                                 <div class="fancy-dropdown__selected"> Độ liên quan </div>
                                 <ul>
-                                    <li data-value="/Shop/Sale-C429/" class="active"> Độ liên quan </li>
-                                    <li data-value="/Shop/Sale-C429/?Sort=discount+desc"> Khuyễn mãi </li>
-                                    <li data-value="/Shop/Sale-C429/?Sort=price+desc"> Giá: Giảm dần </li>
-                                    <li data-value="/Shop/Sale-C429/?Sort=price+asc"> Giá: Tăng dần </li>
+                                    <li data-value="/list"> Độ liên quan </li>
+                                    <li data-value="/list"> Khuyễn mãi </li>
+                                    <li data-value="/list"> Giá: Giảm dần </li>
+                                    <li data-value="/list"> Giá: Tăng dần </li>
                                 </ul>
                             </div>
                         </span>
@@ -589,42 +589,42 @@
                     <div class="show-products col-xs-6"><span class="hidden-xs">Hiển thị </span><span class="x----v3-inline">
                             1-12 </span>
                         <select name="ItemsPerPage" class="form-control items-per-page x----v5">
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=6">6</option>
-                            <option value="/Shop/Sale-C429/" selected="">12</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=24">24</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=48">48</option>
-                            <option value="/Shop/Sale-C429/?ItemsPerPage=0">All</option>
+                            <option value="/list">6</option>
+                            <option value="/list">12</option>
+                            <option value="/list">24</option>
+                            <option value="/list">48</option>
+                            <option value="/list">All</option>
                         </select> trong <span class="number-of-results">254 sản phẩm</span></div>
                     <div class="page-numbers col-xs-6">
                         <div class="x----v5"> Trang
                             <select name="Page" class="form-control page">
-                                <option value="/Shop/Sale-C429/" selected="">1</option>
-                                <option value="/Shop/Sale-C429/?Page=2">2</option>
-                                <option value="/Shop/Sale-C429/?Page=3">3</option>
-                                <option value="/Shop/Sale-C429/?Page=4">4</option>
-                                <option value="/Shop/Sale-C429/?Page=5">5</option>
-                                <option value="/Shop/Sale-C429/?Page=6">6</option>
-                                <option value="/Shop/Sale-C429/?Page=7">7</option>
-                                <option value="/Shop/Sale-C429/?Page=8">8</option>
-                                <option value="/Shop/Sale-C429/?Page=9">9</option>
-                                <option value="/Shop/Sale-C429/?Page=10">10</option>
-                                <option value="/Shop/Sale-C429/?Page=11">11</option>
-                                <option value="/Shop/Sale-C429/?Page=12">12</option>
-                                <option value="/Shop/Sale-C429/?Page=13">13</option>
-                                <option value="/Shop/Sale-C429/?Page=14">14</option>
-                                <option value="/Shop/Sale-C429/?Page=15">15</option>
-                                <option value="/Shop/Sale-C429/?Page=16">16</option>
-                                <option value="/Shop/Sale-C429/?Page=17">17</option>
-                                <option value="/Shop/Sale-C429/?Page=18">18</option>
-                                <option value="/Shop/Sale-C429/?Page=19">19</option>
-                                <option value="/Shop/Sale-C429/?Page=20">20</option>
-                                <option value="/Shop/Sale-C429/?Page=21">21</option>
-                                <option value="/Shop/Sale-C429/?Page=22">22</option>
-                            </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/Shop/Sale-C429/?Page=2"><span
+                                <option value="/list">1</option>
+                                <option value="/list">2</option>
+                                <option value="/list">3</option>
+                                <option value="/list">4</option>
+                                <option value="/list">5</option>
+                                <option value="/list">6</option>
+                                <option value="/list">7</option>
+                                <option value="/list">8</option>
+                                <option value="/list">9</option>
+                                <option value="/list">10</option>
+                                <option value="/list">11</option>
+                                <option value="/list">12</option>
+                                <option value="/list">13</option>
+                                <option value="/list">14</option>
+                                <option value="/list">15</option>
+                                <option value="/list">16</option>
+                                <option value="/list">17</option>
+                                <option value="/list">18</option>
+                                <option value="/list">19</option>
+                                <option value="/list">20</option>
+                                <option value="/list">21</option>
+                                <option value="/list">22</option>
+                            </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/list"><span
                                     class="glyphicon glyphicon-chevron-right"></span></a></div>
-                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a>
-                            <a href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
-                            | <a href="/Shop/Sale-C429/?ItemsPerPage=0">Tất cả</a></div>
+                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/list">2</a>
+                            <a href="/list">Tiếp&gt;</a>
+                            | <a href="/list">Tất cả</a></div>
                     </div>
                 </div>
             </div>

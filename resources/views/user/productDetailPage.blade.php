@@ -7,13 +7,13 @@
             <div class="x____container">
                 <div class="breadcrumbs">
                     <ul>
-                        <li class="link"><a href="../Shop/Accessories-C425/Pillows-C23/indexbbd5.html?Page=3" class="back-to-results">Back
+                        <li class="link"><a href="../list">Back
                                 to results</a></li>
                         <li>You are here: <a href="../index.html">Home</a></li>
                         <li class="spacer">&raquo;</li>
-                        <li><a href="../Shop/Accessories-C425/index.html">Accessories</a></li>
+                        <li><a href="../list">Accessories</a></li>
                         <li class="spacer">&raquo;</li>
-                        <li><a href="../Shop/Accessories-C425/Pillows-C23/index.html">Pillows</a></li>
+                        <li><a href="../list">Pillows</a></li>
                         <li class="spacer">&raquo;</li>
                         <li><strong>Aloe Vera Memory Foam Pillow</strong></li>
                     </ul>

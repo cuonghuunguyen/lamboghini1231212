@@ -7,12 +7,12 @@
             <div class="content">
                 <div class="x----v5 x____wrapper home__nav">
                     <div class="category-list-phone home-nav"><a class="category-list-link col-xs-1 home-nav__link"
-                            href="Shop/Sale-C429/index.html"><span class="sale">Bán</span></a><a
+                            href="list">Bán</span></a><a
                             class="category-list-link col-xs-1 home-nav__link" 
-                            href="Shop/Mattresses-C136/index.html">Đệm</a><a class="category-list-link col-xs-1 home-nav__link"
-                            href="Shop/Beds-C424/index.html">Giường</a><a
+                            href="list">Đệm</a><a class="category-list-link col-xs-1 home-nav__link"
+                            href="list">Giường</a><a
                             class="category-list-link col-xs-1 home-nav__link" 
-                            href="Shop/Accessories-C425/index.html">Phụ kiện</a></div>
+                            href="list">Phụ kiện</a></div>
                 </div>
                 <div class="basic-item-container clearfix">
                     <h2>Thương Hiệu Lớn Hạ Giá - Sản Phẩm Bán Chạy</h2>
@@ -222,10 +222,10 @@
                 <div class="homepage-static-content">
                     <h1>Đệm, giường và hơn thế nữa, hiện tại đang có chương trình giảm giá 70%</h1>
                     <p>Chúng tôi hiểu rằng khi nói đến giấc ngủ, không có sự thỏa hiệp nào. Chúng tôi tin tưởng vào kinh nghiệm khách hàng đặc biệt, tư vấn chuyên gia và chất lượng vượt trội. Đó là lý do chúng tôi <a href="Awards.html">Bed Retailer of the Year 2016-17</a>!</p>
-                    <p>Khám phá kho tàng khổng lồ <a href="Shop/Mattresses-C136/index.html">đệm</a>, giường
-                        và nhiều hơn nữa - từ các thương hiệu lớn <a href="Shop/Silentnight-Mattresses-and-Divan-Beds-C173/index.html">Silentnight</a>,
-                        <a href="Shop/Sealy-Mattresses-and-Divan-Beds-C185/index.html">Sealy</a>, <a href="Shop/Rest-Assured-Mattresses-and-Divan-Beds-C189/index.html">Rest
-                            Đảm bảo</a>, and <a href="Shop/Sleepeezee-Mattresses-and-Divan-Beds-C421/index.html">Chất lượng giấc ngủ</a>.
+                    <p>Khám phá kho tàng khổng lồ <a href="list">đệm</a>, giường
+                        và nhiều hơn nữa - từ các thương hiệu lớn <a href="list">Silentnight</a>,
+                        <a href="list">Rest
+                            Đảm bảo</a>, and <a href="list">Chất lượng giấc ngủ</a>.
                             Chúng tôi có một phạm vi cho phù hợp với tất cả ngân sách. Cho dù bạn đang tìm kiếm một chiếc đệm sang trọng, nệm chỉnh hình - hoặc chỉ đơn giản là một tấm nệm rẻ tiền cho phòng của bạn.</p>
                     <p>Cần một giấc ngủ ngon ngay lập tức? Không vấn đề gì! Chúng tôi giữ hàng ngàn sản phẩm của chúng tôi trong kho để họ sẵn sàng cho Giao hàng miễn phí vào ngày tiếp theo hoặc bạn có thể chọn ngày tốt nhất cho mình.</p>
                     <p>Với hơn 30 năm kinh nghiệm, chúng tôi là nhà bán lẻ giường và nệm hàng đầu của Việt Nam. Vì vậy, hãy để chúng tôi giúp bạn chọn nệm hoặc giường hoàn hảo, sau đó tận hưởng giấc ngủ ngon nhất - bao giờ hết!</p>
