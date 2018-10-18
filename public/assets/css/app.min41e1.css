@@ -27245,8 +27245,9 @@ html.has-scroll-disabled {
   }
   
   @media screen and (max-width: 650px) {
-    label {
+    .x____tabs-container label {
       font-size: 0;
+      /* font-size: 100%; */
     }
   
     label:before {

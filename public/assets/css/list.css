@@ -2,6 +2,10 @@
     display: block;
 }
 
+.facet-row ul li label {
+    text-align: left;
+}
+
 @media (min-width: 768px) {
     .price-list {
         display: none;

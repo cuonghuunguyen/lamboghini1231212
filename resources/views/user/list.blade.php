@@ -15,661 +15,16 @@
             </div>
 
             <div class="facet-list visible-xs closed">
-                <div class="facet-row"><a href="#" class="refine visible-xs"> Filter by <span>Size, Type, Brand etc</span>
+                <div class="facet-row">
+                    <a href="#" class="refine visible-xs"> Lọc theo <span>Kich thươc, Loại, Thương hiệu...</span>
                         <div class="glyphicon glyphicon-chevron-down glyphicon-chevron-down--white pull-right"></div>
                         <div class="glyphicon glyphicon-chevron-up glyphicon-chevron-up--white pull-right"></div>
-                    </a></div>
+                    </a>
+                </div>
                 <div class="facet-options" style="display: block;">
                     <div class="facet-row">
                         <div class="active-facets">
-                            <div class="selected visible-xs">Use the options below to specify what you're looking for.</div>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group facet-department">
-                        <div class="facet collapsed closed"><a class="visible-xs">Department <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Department</h4>
-                            <ul style="display: none;">
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Mattresses-F1500/"> Mattresses
-                                        <span class="count">(254)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Mattresses-F1500" type="checkbox"> Mattresses <span
-                                            class="count">(254)</span></label>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group facet-special-offers">
-                        <div class="facet collapsed closed"><a class="visible-xs">Special Offers <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Special Offers</h4>
-                            <ul style="display: none;">
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/New-In-F2441/"> New In <span
-                                            class="count">(72)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="New-In-F2441" type="checkbox"> New In <span class="count">(72)</span></label>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group facet-size">
-                        <div class="facet collapsed closed"><a class="visible-xs">Size <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Size</h4>
-                            <ul style="display: none;">
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/"> Small
-                                        Single <span class="count">(28)</span><span class="dimensions">2'6" x 6'3" /
-                                            75cm x 190cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Small-Single-F345" type="checkbox"> Small Single <span
-                                            class="count">(28)</span><span class="dimensions">2'6" x 6'3" / 75cm x
-                                            190cm</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Single-F23/"> Single <span
-                                            class="count">(233)</span><span class="dimensions">3' x 6'3" / 90cm x 190cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Single-F23" type="checkbox"> Single <span class="count">(233)</span><span
-                                            class="dimensions">3' x 6'3" / 90cm x 190cm</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Small-Double-F20/"> Small
-                                        Double <span class="count">(151)</span><span class="dimensions">4' x 6'3" /
-                                            120cm x 190cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Small-Double-F20" type="checkbox"> Small Double <span
-                                            class="count">(151)</span><span class="dimensions">4' x 6'3" / 120cm x
-                                            190cm</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Double-F21/"> Double <span
-                                            class="count">(232)</span><span class="dimensions">4'6" x 6'3" / 135cm x
-                                            190cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Double-F21" type="checkbox"> Double <span class="count">(232)</span><span
-                                            class="dimensions">4'6" x 6'3" / 135cm x 190cm</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/King-Size-F22/"> King Size
-                                        <span class="count">(227)</span><span class="dimensions">5' x 6'6" / 150cm x
-                                            200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="King-Size-F22" type="checkbox"> King Size <span class="count">(227)</span><span
-                                            class="dimensions">5' x 6'6" / 150cm x 200cm</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Superking-F346/"> Superking
-                                        <span class="count">(205)</span><span class="dimensions">6' x 6'6" / 180cm x
-                                            200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Superking-F346" type="checkbox"> Superking <span class="count">(205)</span><span
-                                            class="dimensions">6' x 6'6" / 180cm x 200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Superking-Zip-and-Link-F600/">
-                                        Superking Zip and Link <span class="count">(34)</span><span class="dimensions">6'
-                                            x 6'6" / 180cm x 200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Superking-Zip-and-Link-F600" type="checkbox">
-                                        Superking Zip and Link <span class="count">(34)</span><span class="dimensions">6'
-                                            x 6'6" / 180cm x 200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-Short-F347/">
-                                        Small Single Short <span class="count">(2)</span><span class="dimensions">2'6"
-                                            x 5'9" / 75cm x 175cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Small-Single-Short-F347" type="checkbox"> Small Single
-                                        Short <span class="count">(2)</span><span class="dimensions">2'6" x 5'9" / 75cm
-                                            x 175cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Single-Short-F348/"> Single
-                                        Short <span class="count">(2)</span><span class="dimensions">3' x 5'9" / 90cm x
-                                            175cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Single-Short-F348" type="checkbox"> Single Short <span
-                                            class="count">(2)</span><span class="dimensions">3' x 5'9" / 90cm x 175cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/European-Single-F349/">
-                                        European Single <span class="count">(7)</span><span class="dimensions">3' x
-                                            6'6" / 90cm x 200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="European-Single-F349" type="checkbox"> European Single
-                                        <span class="count">(7)</span><span class="dimensions">3' x 6'6" / 90cm x 200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/European-Double-F350/">
-                                        European Double <span class="count">(15)</span><span class="dimensions">4'7" x
-                                            6'6" / 140cm x 200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="European-Double-F350" type="checkbox"> European Double
-                                        <span class="count">(15)</span><span class="dimensions">4'7" x 6'6" / 140cm x
-                                            200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/European-King-Size-F351/">
-                                        European King Size <span class="count">(16)</span><span class="dimensions">5'3"
-                                            x 6'6" / 160cm x 200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="European-King-Size-F351" type="checkbox"> European
-                                        King Size <span class="count">(16)</span><span class="dimensions">5'3" x 6'6" /
-                                            160cm x 200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/European-Small-Single-F443/">
-                                        European Small Single <span class="count">(6)</span><span class="dimensions">2'6"
-                                            x 6'6" / 75cm x 200cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="European-Small-Single-F443" type="checkbox"> European
-                                        Small Single <span class="count">(6)</span><span class="dimensions">2'6" x 6'6"
-                                            / 75cm x 200cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sofa-Bed-Mattress-F2363/">
-                                        Sofa Bed Mattress <span class="count">(1)</span><span class="dimensions">3'9" x
-                                            5'11" / 115cm x 180cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Sofa-Bed-Mattress-F2363" type="checkbox"> Sofa Bed
-                                        Mattress <span class="count">(1)</span><span class="dimensions">3'9" x 5'11" /
-                                            115cm x 180cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Continental-Cot-Mattress-F1822/">
-                                        Continental Cot Mattress <span class="count">(3)</span><span class="dimensions">2'
-                                            x 4' / 60cm x 120cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Continental-Cot-Mattress-F1822" type="checkbox">
-                                        Continental Cot Mattress <span class="count">(3)</span><span class="dimensions">2'
-                                            x 4' / 60cm x 120cm</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Cot-Bed-Mattress-F1796/"> Cot
-                                        Bed Mattress <span class="count">(5)</span><span class="dimensions">2'4" x 4'7"
-                                            / 70cm x 140cm</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Cot-Bed-Mattress-F1796" type="checkbox"> Cot Bed
-                                        Mattress <span class="count">(5)</span><span class="dimensions">2'4" x 4'7" /
-                                            70cm x 140cm</span></label>
-                                </li>
-                                <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                            class="more"><span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
-                                            Show More</span><span class="less"><span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
-                                            Show Less</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group facet-mattress-type">
-                        <div class="facet collapsed closed"><a class="visible-xs">Loại <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Loại</h4>
-                            <ul style="display: none;">
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Memory-Foam-F2194/"> Memory
-                                        Foam <span class="count">(69)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Memory-Foam-F2194" type="checkbox"> Memory Foam <span
-                                            class="count">(69)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Pocket-Sprung-F2195/"> Pocket
-                                        Sprung <span class="count">(147)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Pocket-Sprung-F2195" type="checkbox"> Pocket Sprung
-                                        <span class="count">(147)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Orthopaedic-F2196/">
-                                        Orthopaedic <span class="count">(59)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Orthopaedic-F2196" type="checkbox"> Orthopaedic <span
-                                            class="count">(59)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Standard-Sprung-F2197/">
-                                        Standard Sprung <span class="count">(59)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Standard-Sprung-F2197" type="checkbox"> Standard
-                                        Sprung <span class="count">(59)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Latex-F2198/"> Latex <span
-                                            class="count">(19)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Latex-F2198" type="checkbox"> Latex <span class="count">(19)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Natural-Fillings-F2200/">
-                                        Natural Fillings <span class="count">(48)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Natural-Fillings-F2200" type="checkbox"> Natural
-                                        Fillings <span class="count">(48)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Gel-Foam-F2199/"> Gel Foam
-                                        <span class="count">(33)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Gel-Foam-F2199" type="checkbox"> Gel Foam <span class="count">(33)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Reflex-Foam-F2397/"> Reflex
-                                        Foam <span class="count">(34)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Reflex-Foam-F2397" type="checkbox"> Reflex Foam <span
-                                            class="count">(34)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Medical-Grade-Foam-F2691/">
-                                        Medical Grade Foam <span class="count">(9)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Medical-Grade-Foam-F2691" type="checkbox"> Medical
-                                        Grade Foam <span class="count">(9)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Rolled-Up-F2365/"> Rolled Up
-                                        <span class="count">(34)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Rolled-Up-F2365" type="checkbox"> Rolled Up <span
-                                            class="count">(34)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Single-Sided-Mattress-F3182/">
-                                        Single-Sided Mattress <span class="count">(188)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Single-Sided-Mattress-F3182" type="checkbox">
-                                        Single-Sided Mattress <span class="count">(188)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Double-Sided-Mattress-F3183/">
-                                        Double-Sided Mattress <span class="count">(66)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Double-Sided-Mattress-F3183" type="checkbox">
-                                        Double-Sided Mattress <span class="count">(66)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Hypoallergenic-F3157/">
-                                        Hypoallergenic <span class="count">(134)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Hypoallergenic-F3157" type="checkbox"> Hypoallergenic
-                                        <span class="count">(134)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Pillow-Top-F3158/"> Pillow Top
-                                        <span class="count">(13)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Pillow-Top-F3158" type="checkbox"> Pillow Top <span
-                                            class="count">(13)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Childrens-F2202/"> Childrens
-                                        <span class="count">(9)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Childrens-F2202" type="checkbox"> Childrens <span
-                                            class="count">(9)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Cot-Bed-Mattress-F2203/"> Cot
-                                        Bed Mattress <span class="count">(5)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Cot-Bed-Mattress-F2203" type="checkbox"> Cot Bed
-                                        Mattress <span class="count">(5)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Contract-Mattress-F2204/">
-                                        Contract Mattress <span class="count">(1)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Contract-Mattress-F2204" type="checkbox"> Contract
-                                        Mattress <span class="count">(1)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sofa-Bed-Mattress-F2206/">
-                                        Sofa Bed Mattress <span class="count">(1)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Sofa-Bed-Mattress-F2206" type="checkbox"> Sofa Bed
-                                        Mattress <span class="count">(1)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Luxury-Mattress-F2692/">
-                                        Luxury Mattress <span class="count">(75)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="F[]" value="Luxury-Mattress-F2692" type="checkbox"> Luxury
-                                        Mattress <span class="count">(75)</span></label>
-                                </li>
-                                <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                            class="more"><span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
-                                            Show More</span><span class="less"><span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
-                                            Show Less</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group">
-                        <div class="facet closed"><a class="visible-xs">Giá <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Giá</h4>
-                            <ul style="display: none;">
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=0&amp;PriceMax%5B%5D=100">
-                                        £0 - £100 <span class="count">(10)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="0" disabled="disabled">
-                                        <input type="hidden" name="PriceMax[]" value="100" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £0 - £100 <span class="count">(10)</span></label>
-                                </li>
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=100&amp;PriceMax%5B%5D=200">
-                                        £100 - £200 <span class="count">(65)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="100" disabled="disabled">
-                                        <input type="hidden" name="PriceMax[]" value="200" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £100 - £200 <span class="count">(65)</span></label>
-                                </li>
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=200&amp;PriceMax%5B%5D=300">
-                                        £200 - £300 <span class="count">(109)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="200" disabled="disabled">
-                                        <input type="hidden" name="PriceMax[]" value="300" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £200 - £300 <span class="count">(109)</span></label>
-                                </li>
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=300&amp;PriceMax%5B%5D=400">
-                                        £300 - £400 <span class="count">(117)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="300" disabled="disabled">
-                                        <input type="hidden" name="PriceMax[]" value="400" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £300 - £400 <span class="count">(117)</span></label>
-                                </li>
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=400&amp;PriceMax%5B%5D=500">
-                                        £400 - £500 <span class="count">(117)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="400" disabled="disabled">
-                                        <input type="hidden" name="PriceMax[]" value="500" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £400 - £500 <span class="count">(117)</span></label>
-                                </li>
-                                <li>
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=500"> £500+
-                                        <span class="count">(141)</span></label>
-                                    <label class="hidden-xs">
-                                        <input type="hidden" name="PriceMin[]" value="500" disabled="disabled">
-                                        <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                        £500+ <span class="count">(141)</span></label>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group">
-                        <div class="facet collapsed closed"><a class="visible-xs">Thương hiệu <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Thương hiệu</h4>
-                            <ul style="display: none;">
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Silentnight-M3/"> Silentnight
-                                        <span class="count">(44)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Silentnight-M3" type="checkbox"> Silentnight <span
-                                            class="count">(44)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sealy-M249/"> Sealy <span
-                                            class="count">(38)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Sealy-M249" type="checkbox"> Sealy <span class="count">(38)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sleepeezee-M301/"> Sleepeezee
-                                        <span class="count">(22)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Sleepeezee-M301" type="checkbox"> Sleepeezee <span
-                                            class="count">(22)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Rest-Assured-M248/"> Rest
-                                        Assured <span class="count">(14)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Rest-Assured-M248" type="checkbox"> Rest Assured <span
-                                            class="count">(14)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Mattress-Online-M259/">
-                                        Mattress Online <span class="count">(17)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Mattress-Online-M259" type="checkbox"> Mattress Online
-                                        <span class="count">(17)</span></label>
-                                </li>
-                                <li class="">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Myers-M273/"> Myers <span
-                                            class="count">(15)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Myers-M273" type="checkbox"> Myers <span class="count">(15)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Slumberland-M244/">
-                                        Slumberland <span class="count">(11)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Slumberland-M244" type="checkbox"> Slumberland <span
-                                            class="count">(11)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Relyon-M281/"> Relyon <span
-                                            class="count">(12)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Relyon-M281" type="checkbox"> Relyon <span class="count">(12)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Layezee-made-by-Silentnight-M317/">
-                                        Layezee made by Silentnight <span class="count">(7)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Layezee-made-by-Silentnight-M317" type="checkbox">
-                                        Layezee made by Silentnight <span class="count">(7)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Healthbeds-M311/"> Healthbeds
-                                        <span class="count">(10)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Healthbeds-M311" type="checkbox"> Healthbeds <span
-                                            class="count">(10)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Romantica-M305/"> Romantica
-                                        <span class="count">(6)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Romantica-M305" type="checkbox"> Romantica <span class="count">(6)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Dunlopillo-M265/"> Dunlopillo
-                                        <span class="count">(6)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Dunlopillo-M265" type="checkbox"> Dunlopillo <span
-                                            class="count">(6)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Breasley-M242/"> Breasley
-                                        <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Breasley-M242" type="checkbox"> Breasley <span class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sweet-Dreams-M250/"> Sweet
-                                        Dreams <span class="count">(4)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Sweet-Dreams-M250" type="checkbox"> Sweet Dreams <span
-                                            class="count">(4)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Luna-M314/"> Luna <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Luna-M314" type="checkbox"> Luna <span class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Gainsborough-M303/">
-                                        Gainsborough <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Gainsborough-M303" type="checkbox"> Gainsborough <span
-                                            class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sports-Therapy-M308/"> Sports
-                                        Therapy <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Sports-Therapy-M308" type="checkbox"> Sports Therapy
-                                        <span class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Mammoth-M310/"> Mammoth <span
-                                            class="count">(8)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Mammoth-M310" type="checkbox"> Mammoth <span class="count">(8)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Pirelli-M309/"> Pirelli <span
-                                            class="count">(2)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Pirelli-M309" type="checkbox"> Pirelli <span class="count">(2)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Studio-by-Silentnight-M315/">
-                                        Studio by Silentnight <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Studio-by-Silentnight-M315" type="checkbox"> Studio by
-                                        Silentnight <span class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Novo-M319/"> Novo <span class="count">(4)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Novo-M319" type="checkbox"> Novo <span class="count">(4)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Horizon-M320/"> Horizon <span
-                                            class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Horizon-M320" type="checkbox"> Horizon <span class="count">(3)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Sareer-M306/"> Sareer <span
-                                            class="count">(2)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Sareer-M306" type="checkbox"> Sareer <span class="count">(2)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Millbrook-Beds-M284/">
-                                        Millbrook Beds <span class="count">(6)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Millbrook-Beds-M284" type="checkbox"> Millbrook Beds
-                                        <span class="count">(6)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Vogue-M287/"> Vogue <span
-                                            class="count">(5)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Vogue-M287" type="checkbox"> Vogue <span class="count">(5)</span></label>
-                                </li>
-                                <li class="collapsible">
-                                    <label class="visible-xs">
-                                        <input type="checkbox" data-url="/Shop/Sale-C429/Nighty-Night-M295/">
-                                        Nighty-Night <span class="count">(3)</span></label>
-                                    <label class="hidden-xs">
-                                        <input name="M[]" value="Nighty-Night-M295" type="checkbox"> Nighty-Night <span
-                                            class="count">(3)</span></label>
-                                </li>
-                                <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                            class="more"><span class="glyphicon glyphicon-chevron-down"></span> Show
-                                            More</span><span class="less"><span class="glyphicon glyphicon-chevron-up"></span>
-                                            Show Less</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="facet-row facet-group hidden-xs">
-                        <div class="facet closed"><a class="visible-xs"> Từ khóa tìm kiếm <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                            </a>
-                            <h4 class="hidden-xs">Từ khóa tìm kiếm</h4>
-                            <div class="facet__option">
-                                <input type="search" name="Search" value="">
-                            </div>
+                            <div class="selected visible-xs">Sử dụng các tùy chọn dưới đây để tìm kiếm</div>
                         </div>
                     </div>
                 </div>
@@ -686,28 +41,11 @@
                                 <h4>Tìm kiếm chi tiết</h4>
                             </div>
                             <div class="collapsed-content text--center">
-                                <div> Bạn chưa chọn các đặc điểm của sản phẩm mà bạn đang tìm kiếm. </div><a
-                                    href="#">Hãy thay đổi các tùy chọn tìm kiếm</a>
+                                <div> Bạn chưa chọn các đặc điểm của sản phẩm mà bạn đang tìm kiếm. </div><a href="#">Hãy
+                                    thay đổi các tùy chọn tìm kiếm</a>
                             </div>
                             <div class="facet-options">
                                 <div class="facet-row"></div>
-                                <div class="facet-row facet-group facet-department">
-                                    <div class="facet collapsed"><a class="visible-xs">Department <div class="glyphicon glyphicon-chevron-down pull-right"></div>
-                                            <div class="glyphicon glyphicon-chevron-up pull-right"></div>
-                                        </a>
-                                        <h4 class="hidden-xs">Department</h4>
-                                        <ul>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Mattresses-F1500/">
-                                                    Mattresses <span class="count">(254)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Mattresses-F1500" type="checkbox">
-                                                    Mattresses <span class="count">(254)</span></label>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                                 <div class="facet-row facet-group facet-special-offers">
                                     <div class="facet collapsed"><a class="visible-xs">Đề xuất đặc biệt <div class="glyphicon glyphicon-chevron-down pull-right"></div>
                                             <div class="glyphicon glyphicon-chevron-up pull-right"></div>
@@ -734,167 +72,91 @@
                                             <li class="">
                                                 <label class="visible-xs">
                                                     <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
-                                                    Nhỏ đơn <span class="count">(28)</span><span class="dimensions">2'6"
-                                                        x 6'3" / 75cm x 190cm</span></label>
+                                                    120 x 190 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
                                                     <input name="F[]" value="Small-Single-F345" type="checkbox">
-                                                    Nhỏ đơn <span class="count">(28)</span><span class="dimensions">2'6"
-                                                        x 6'3" / 75cm x 190cm</span></label>
+                                                    120 x 190 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Single-F23/">
-                                                    Đơn <span class="count">(233)</span><span class="dimensions">3'
-                                                        x 6'3" / 90cm x 190cm</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    120 x 200 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Single-F23" type="checkbox"> Đơn <span
-                                                        class="count">(233)</span><span class="dimensions">3' x 6'3" /
-                                                        90cm x 190cm</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    120 x 200 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Double-F20/">
-                                                    Nhỏ đôi <span class="count">(151)</span><span class="dimensions">4'
-                                                        x 6'3" / 120cm x 190cm</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    150 x 190 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Small-Double-F20" type="checkbox"> Nhỏ
-                                                    đôi <span class="count">(151)</span><span class="dimensions">4'
-                                                        x 6'3" / 120cm x 190cm</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    150 x 190 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Double-F21/">
-                                                    Đôi <span class="count">(232)</span><span class="dimensions">4'6"
-                                                        x 6'3" / 135cm x 190cm</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    140 x 200 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Double-F21" type="checkbox"> Đôi <span
-                                                        class="count">(232)</span><span class="dimensions">4'6" x 6'3"
-                                                        / 135cm x 190cm</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    140 x 200 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/King-Size-F22/">
-                                                    King Size <span class="count">(227)</span><span class="dimensions">5'
-                                                        x 6'6" / 150cm x 200cm</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    160 x 200 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="King-Size-F22" type="checkbox"> King Size
-                                                    <span class="count">(227)</span><span class="dimensions">5' x 6'6"
-                                                        / 150cm x 200cm</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    160 x 200 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Superking-F346/">
-                                                    Superking <span class="count">(205)</span><span class="dimensions">6'
-                                                        x 6'6" / 180cm x 200cm</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    180 x 200 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Superking-F346" type="checkbox"> Superking
-                                                    <span class="count">(205)</span><span class="dimensions">6' x 6'6"
-                                                        / 180cm x 200cm</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    180 x 200 (cm)
+                                                </label>
                                             </li>
+
                                             <li class="collapsible">
                                                 <label class="visible-xs">
                                                     <input type="checkbox" data-url="/Shop/Sale-C429/Superking-Zip-and-Link-F600/">
-                                                    Superking Zip and Link <span class="count">(34)</span><span class="dimensions">6'
-                                                        x 6'6" / 180cm x 200cm</span></label>
+                                                    200 x 220 (cm)
+                                                </label>
                                                 <label class="hidden-xs">
                                                     <input name="F[]" value="Superking-Zip-and-Link-F600" type="checkbox">
-                                                    Superking Zip and Link <span class="count">(34)</span><span class="dimensions">6'
-                                                        x 6'6" / 180cm x 200cm</span></label>
+                                                    200 x 220 (cm)
+                                                </label>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-Short-F347/">
-                                                    Small Single Short <span class="count">(2)</span><span class="dimensions">2'6"
-                                                        x 5'9" / 75cm x 175cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Small-Single-Short-F347" type="checkbox">
-                                                    Small Single Short <span class="count">(2)</span><span class="dimensions">2'6"
-                                                        x 5'9" / 75cm x 175cm</span></label>
+                                            <li class="show-more-less">
+                                                <a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;">
+                                                    <span class="more">
+                                                        <span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
+                                                        Mở rộng
+                                                    </span>
+                                                    <span class="less">
+                                                        <span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
+                                                        Thu nhỏ
+                                                    </span>
+                                                </a>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Single-Short-F348/">
-                                                    Single Short <span class="count">(2)</span><span class="dimensions">3'
-                                                        x 5'9" / 90cm x 175cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Single-Short-F348" type="checkbox"> Single
-                                                    Short <span class="count">(2)</span><span class="dimensions">3' x
-                                                        5'9" / 90cm x 175cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/European-Single-F349/">
-                                                    European Single <span class="count">(7)</span><span class="dimensions">3'
-                                                        x 6'6" / 90cm x 200cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="European-Single-F349" type="checkbox">
-                                                    European Single <span class="count">(7)</span><span class="dimensions">3'
-                                                        x 6'6" / 90cm x 200cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/European-Double-F350/">
-                                                    European Double <span class="count">(15)</span><span class="dimensions">4'7"
-                                                        x 6'6" / 140cm x 200cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="European-Double-F350" type="checkbox">
-                                                    European Double <span class="count">(15)</span><span class="dimensions">4'7"
-                                                        x 6'6" / 140cm x 200cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/European-King-Size-F351/">
-                                                    European King Size <span class="count">(16)</span><span class="dimensions">5'3"
-                                                        x 6'6" / 160cm x 200cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="European-King-Size-F351" type="checkbox">
-                                                    European King Size <span class="count">(16)</span><span class="dimensions">5'3"
-                                                        x 6'6" / 160cm x 200cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/European-Small-Single-F443/">
-                                                    European Small Single <span class="count">(6)</span><span class="dimensions">2'6"
-                                                        x 6'6" / 75cm x 200cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="European-Small-Single-F443" type="checkbox">
-                                                    European Small Single <span class="count">(6)</span><span class="dimensions">2'6"
-                                                        x 6'6" / 75cm x 200cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sofa-Bed-Mattress-F2363/">
-                                                    Sofa Bed Mattress <span class="count">(1)</span><span class="dimensions">3'9"
-                                                        x 5'11" / 115cm x 180cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Sofa-Bed-Mattress-F2363" type="checkbox">
-                                                    Sofa Bed Mattress <span class="count">(1)</span><span class="dimensions">3'9"
-                                                        x 5'11" / 115cm x 180cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Continental-Cot-Mattress-F1822/">
-                                                    Continental Cot Mattress <span class="count">(3)</span><span class="dimensions">2'
-                                                        x 4' / 60cm x 120cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Continental-Cot-Mattress-F1822" type="checkbox">
-                                                    Continental Cot Mattress <span class="count">(3)</span><span class="dimensions">2'
-                                                        x 4' / 60cm x 120cm</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Cot-Bed-Mattress-F1796/">
-                                                    Cot Bed Mattress <span class="count">(5)</span><span class="dimensions">2'4"
-                                                        x 4'7" / 70cm x 140cm</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Cot-Bed-Mattress-F1796" type="checkbox">
-                                                    Cot Bed Mattress <span class="count">(5)</span><span class="dimensions">2'4"
-                                                        x 4'7" / 70cm x 140cm</span></label>
-                                            </li>
-                                            <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                                        class="more"><span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
-                                                        Show More</span><span class="less"><span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
-                                                        Show Less</span></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -906,160 +168,71 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Memory-Foam-F2194/">
-                                                    Memory Foam <span class="count">(69)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    Đệm lò xo
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Memory-Foam-F2194" type="checkbox"> Memory
-                                                    Foam <span class="count">(69)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    Đệm lò xo
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Pocket-Sprung-F2195/">
-                                                    Pocket Sprung <span class="count">(147)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    Đệm bông ép và cao su
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Pocket-Sprung-F2195" type="checkbox">
-                                                    Pocket Sprung <span class="count">(147)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    Đệm bông ép và cao su
+                                                </label>
                                             </li>
+
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Orthopaedic-F2196/">
-                                                    Orthopaedic <span class="count">(59)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    Chăn ga gối
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Orthopaedic-F2196" type="checkbox">
-                                                    Orthopaedic <span class="count">(59)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    Chăn ga gối
+                                                </label>
                                             </li>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Standard-Sprung-F2197/">
-                                                    Standard Sprung <span class="count">(59)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Standard-Sprung-F2197" type="checkbox">
-                                                    Standard Sprung <span class="count">(59)</span></label>
-                                            </li>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Latex-F2198/">
-                                                    Latex <span class="count">(19)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Latex-F2198" type="checkbox"> Latex <span
-                                                        class="count">(19)</span></label>
-                                            </li>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Natural-Fillings-F2200/">
-                                                    Natural Fillings <span class="count">(48)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Natural-Fillings-F2200" type="checkbox">
-                                                    Natural Fillings <span class="count">(48)</span></label>
-                                            </li>
+
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Gel-Foam-F2199/">
-                                                    Gel Foam <span class="count">(33)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    Ruột gối
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Gel-Foam-F2199" type="checkbox"> Gel Foam
-                                                    <span class="count">(33)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    Ruột gối
+                                                </label>
                                             </li>
+
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Reflex-Foam-F2397/">
-                                                    Reflex Foam <span class="count">(34)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    Chăn
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="F[]" value="Reflex-Foam-F2397" type="checkbox"> Reflex
-                                                    Foam <span class="count">(34)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    Chăn
+                                                </label>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Medical-Grade-Foam-F2691/">
-                                                    Medical Grade Foam <span class="count">(9)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Medical-Grade-Foam-F2691" type="checkbox">
-                                                    Medical Grade Foam <span class="count">(9)</span></label>
+
+                                            <li class="show-more-less">
+                                                <a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;">
+                                                    <span class="more">
+                                                        <span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
+                                                        Mở rộng
+                                                    </span>
+                                                    <span class="less">
+                                                        <span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
+                                                        Thu nhỏ
+                                                    </span>
+                                                </a>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Rolled-Up-F2365/">
-                                                    Rolled Up <span class="count">(34)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Rolled-Up-F2365" type="checkbox"> Rolled
-                                                    Up <span class="count">(34)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Single-Sided-Mattress-F3182/">
-                                                    Single-Sided Mattress <span class="count">(188)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Single-Sided-Mattress-F3182" type="checkbox">
-                                                    Single-Sided Mattress <span class="count">(188)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Double-Sided-Mattress-F3183/">
-                                                    Double-Sided Mattress <span class="count">(66)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Double-Sided-Mattress-F3183" type="checkbox">
-                                                    Double-Sided Mattress <span class="count">(66)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Hypoallergenic-F3157/">
-                                                    Hypoallergenic <span class="count">(134)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Hypoallergenic-F3157" type="checkbox">
-                                                    Hypoallergenic <span class="count">(134)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Pillow-Top-F3158/">
-                                                    Pillow Top <span class="count">(13)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Pillow-Top-F3158" type="checkbox"> Pillow
-                                                    Top <span class="count">(13)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Childrens-F2202/">
-                                                    Childrens <span class="count">(9)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Childrens-F2202" type="checkbox">
-                                                    Childrens <span class="count">(9)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Cot-Bed-Mattress-F2203/">
-                                                    Cot Bed Mattress <span class="count">(5)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Cot-Bed-Mattress-F2203" type="checkbox">
-                                                    Cot Bed Mattress <span class="count">(5)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Contract-Mattress-F2204/">
-                                                    Contract Mattress <span class="count">(1)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Contract-Mattress-F2204" type="checkbox">
-                                                    Contract Mattress <span class="count">(1)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sofa-Bed-Mattress-F2206/">
-                                                    Sofa Bed Mattress <span class="count">(1)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Sofa-Bed-Mattress-F2206" type="checkbox">
-                                                    Sofa Bed Mattress <span class="count">(1)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Luxury-Mattress-F2692/">
-                                                    Luxury Mattress <span class="count">(75)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="F[]" value="Luxury-Mattress-F2692" type="checkbox">
-                                                    Luxury Mattress <span class="count">(75)</span></label>
-                                            </li>
-                                            <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                                        class="more"><span class="glyphicon glyphicon--small glyphicon-chevron-down"></span>
-                                                        Show More</span><span class="less"><span class="glyphicon glyphicon--small glyphicon-chevron-up"></span>
-                                                        Show Less</span></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1069,64 +242,45 @@
                                         </a>
                                         <h4 class="hidden-xs">Giá</h4>
                                         <ul>
-                                            <li>
+                                            <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=0&amp;PriceMax%5B%5D=100">
-                                                    £0 - £100 <span class="count">(10)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    100k - 500k
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="0" disabled="disabled">
-                                                    <input type="hidden" name="PriceMax[]" value="100" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £0 - £100 <span class="count">(10)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    100k - 500k
+                                                </label>
                                             </li>
-                                            <li>
+                                            <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=100&amp;PriceMax%5B%5D=200">
-                                                    £100 - £200 <span class="count">(65)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    500k - 1000k
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="100" disabled="disabled">
-                                                    <input type="hidden" name="PriceMax[]" value="200" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £100 - £200 <span class="count">(65)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    500k - 1000k
+                                                </label>
                                             </li>
-                                            <li>
+                                            <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=200&amp;PriceMax%5B%5D=300">
-                                                    £200 - £300 <span class="count">(109)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    1000k - 2000k
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="200" disabled="disabled">
-                                                    <input type="hidden" name="PriceMax[]" value="300" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £200 - £300 <span class="count">(109)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    1000k - 2000k
+                                                </label>
                                             </li>
-                                            <li>
+                                            <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=300&amp;PriceMax%5B%5D=400">
-                                                    £300 - £400 <span class="count">(117)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    2000k - 5000k
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="300" disabled="disabled">
-                                                    <input type="hidden" name="PriceMax[]" value="400" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £300 - £400 <span class="count">(117)</span></label>
-                                            </li>
-                                            <li>
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=400&amp;PriceMax%5B%5D=500">
-                                                    £400 - £500 <span class="count">(117)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="400" disabled="disabled">
-                                                    <input type="hidden" name="PriceMax[]" value="500" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £400 - £500 <span class="count">(117)</span></label>
-                                            </li>
-                                            <li>
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/?PriceMin%5B%5D=500">
-                                                    £500+ <span class="count">(141)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input type="hidden" name="PriceMin[]" value="500" disabled="disabled">
-                                                    <input type="checkbox" onchange="$(this).parents('label').find('input[type=\'hidden\']').prop('disabled', !$(this).prop('checked'))">
-                                                    £500+ <span class="count">(141)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    2000k - 5000k
+                                                </label>
                                             </li>
                                         </ul>
                                     </div>
@@ -1139,216 +293,66 @@
                                         <ul>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Silentnight-M3/">
-                                                    Silentnight <span class="count">(44)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    DAIHAN
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="M[]" value="Silentnight-M3" type="checkbox">
-                                                    Silentnight <span class="count">(44)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    DAIHAN
+                                                </label>
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sealy-M249/">
-                                                    Sealy <span class="count">(38)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    ACNES
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="M[]" value="Sealy-M249" type="checkbox"> Sealy <span
-                                                        class="count">(38)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    ACNES
+                                                </label>
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sleepeezee-M301/">
-                                                    Sleepeezee <span class="count">(22)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    RAINA
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="M[]" value="Sleepeezee-M301" type="checkbox">
-                                                    Sleepeezee <span class="count">(22)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    RAINA
+                                                </label>
                                             </li>
                                             <li class="">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Rest-Assured-M248/">
-                                                    Rest Assured <span class="count">(14)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    TECHWOOD
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="M[]" value="Rest-Assured-M248" type="checkbox"> Rest
-                                                    Assured <span class="count">(14)</span></label>
-                                            </li>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Mattress-Online-M259/">
-                                                    Mattress Online <span class="count">(17)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Mattress-Online-M259" type="checkbox">
-                                                    Mattress Online <span class="count">(17)</span></label>
-                                            </li>
-                                            <li class="">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Myers-M273/">
-                                                    Myers <span class="count">(15)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Myers-M273" type="checkbox"> Myers <span
-                                                        class="count">(15)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    TECHWOOD
+                                                </label>
                                             </li>
                                             <li class="collapsible">
                                                 <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Slumberland-M244/">
-                                                    Slumberland <span class="count">(11)</span></label>
+                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Small-Single-F345/">
+                                                    KOREA
+                                                </label>
                                                 <label class="hidden-xs">
-                                                    <input name="M[]" value="Slumberland-M244" type="checkbox">
-                                                    Slumberland <span class="count">(11)</span></label>
+                                                    <input name="F[]" value="Small-Single-F345" type="checkbox">
+                                                    KOREA
+                                                </label>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Relyon-M281/">
-                                                    Relyon <span class="count">(12)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Relyon-M281" type="checkbox"> Relyon <span
-                                                        class="count">(12)</span></label>
+                                            <li class="show-more-less">
+                                                <a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;">
+                                                    <span class="more">
+                                                        <span class="glyphicon glyphicon-chevron-down"></span>
+                                                        Mở rộng
+                                                    </span>
+                                                    <span class="less">
+                                                        <span class="glyphicon glyphicon-chevron-up"></span>
+                                                        Thu nhỏ
+                                                    </span>
+                                                </a>
                                             </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Layezee-made-by-Silentnight-M317/">
-                                                    Layezee made by Silentnight <span class="count">(7)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Layezee-made-by-Silentnight-M317" type="checkbox">
-                                                    Layezee made by Silentnight <span class="count">(7)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Healthbeds-M311/">
-                                                    Healthbeds <span class="count">(10)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Healthbeds-M311" type="checkbox">
-                                                    Healthbeds <span class="count">(10)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Romantica-M305/">
-                                                    Romantica <span class="count">(6)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Romantica-M305" type="checkbox"> Romantica
-                                                    <span class="count">(6)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Dunlopillo-M265/">
-                                                    Dunlopillo <span class="count">(6)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Dunlopillo-M265" type="checkbox">
-                                                    Dunlopillo <span class="count">(6)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Breasley-M242/">
-                                                    Breasley <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Breasley-M242" type="checkbox"> Breasley
-                                                    <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sweet-Dreams-M250/">
-                                                    Sweet Dreams <span class="count">(4)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Sweet-Dreams-M250" type="checkbox"> Sweet
-                                                    Dreams <span class="count">(4)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Luna-M314/"> Luna
-                                                    <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Luna-M314" type="checkbox"> Luna <span
-                                                        class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Gainsborough-M303/">
-                                                    Gainsborough <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Gainsborough-M303" type="checkbox">
-                                                    Gainsborough <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sports-Therapy-M308/">
-                                                    Sports Therapy <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Sports-Therapy-M308" type="checkbox">
-                                                    Sports Therapy <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Mammoth-M310/">
-                                                    Mammoth <span class="count">(8)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Mammoth-M310" type="checkbox"> Mammoth
-                                                    <span class="count">(8)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Pirelli-M309/">
-                                                    Pirelli <span class="count">(2)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Pirelli-M309" type="checkbox"> Pirelli
-                                                    <span class="count">(2)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Studio-by-Silentnight-M315/">
-                                                    Studio by Silentnight <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Studio-by-Silentnight-M315" type="checkbox">
-                                                    Studio by Silentnight <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Novo-M319/"> Novo
-                                                    <span class="count">(4)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Novo-M319" type="checkbox"> Novo <span
-                                                        class="count">(4)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Horizon-M320/">
-                                                    Horizon <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Horizon-M320" type="checkbox"> Horizon
-                                                    <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Sareer-M306/">
-                                                    Sareer <span class="count">(2)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Sareer-M306" type="checkbox"> Sareer <span
-                                                        class="count">(2)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Millbrook-Beds-M284/">
-                                                    Millbrook Beds <span class="count">(6)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Millbrook-Beds-M284" type="checkbox">
-                                                    Millbrook Beds <span class="count">(6)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Vogue-M287/">
-                                                    Vogue <span class="count">(5)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Vogue-M287" type="checkbox"> Vogue <span
-                                                        class="count">(5)</span></label>
-                                            </li>
-                                            <li class="collapsible">
-                                                <label class="visible-xs">
-                                                    <input type="checkbox" data-url="/Shop/Sale-C429/Nighty-Night-M295/">
-                                                    Nighty-Night <span class="count">(3)</span></label>
-                                                <label class="hidden-xs">
-                                                    <input name="M[]" value="Nighty-Night-M295" type="checkbox">
-                                                    Nighty-Night <span class="count">(3)</span></label>
-                                            </li>
-                                            <li class="show-more-less"><a href="#" class="facet-expand" onclick="$(this).parents('.facet').toggleClass('collapsed'); return false;"><span
-                                                        class="more"><span class="glyphicon glyphicon-chevron-down"></span>
-                                                        Show More</span><span class="less"><span class="glyphicon glyphicon-chevron-up"></span>
-                                                        Show Less</span></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1362,8 +366,10 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="facet-list__buttons"><a class="btn btn-success x____btn" href="#" onclick="$(this).parents('form').submit(); return false;">Tìm kiếm</a><a
-                                        id="hide-facets" class="btn btn-primary x____btn" href="">Ẩn tùy chọn</a></div>
+                                <div class="facet-list__buttons"><a class="btn btn-success x____btn" href="#" onclick="$(this).parents('form').submit(); return false;">Tìm
+                                        kiếm</a>
+                                    <a id="hide-facets" class="btn btn-primary x____btn" href="">Ẩn tùy chọn</a>
+                                </div>
                             </div>
                         </div>
                     </form>
@@ -1405,8 +411,8 @@
                                 <option value="/Shop/Sale-C429/?Page=22">22</option>
                             </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/Shop/Sale-C429/?Page=2"><span
                                     class="glyphicon glyphicon-chevron-right"></span></a></div>
-                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a><a
-                                href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
+                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a>
+                            <a href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
                             | <a href="/Shop/Sale-C429/?ItemsPerPage=0">Tất cả</a></div>
                     </div>
                 </div>
@@ -1433,7 +439,7 @@
                         </span>
                     </div>
                 </div>
-                
+
                 <div class="item-list">
 
                     <div class="item-column x____product-card" mo-type="listItem" mo-subject="1097" mo-impression>
@@ -1448,8 +454,7 @@
                                     </div>
                                 </div>
                                 <div class="x____product-card__cta x----v3" mo-id="list item view cta">
-                                    <a class="btn btn-success x____btn"
-                                        href="../../Product/Sealy-Nostromo-Posturepedic-Pocket-1400-Latex-Mattress-P1097.html">
+                                    <a class="btn btn-success x____btn" href="../../Product/Sealy-Nostromo-Posturepedic-Pocket-1400-Latex-Mattress-P1097.html">
                                         Xem chi tiết
                                     </a>
                                 </div>
@@ -1465,7 +470,7 @@
                                 <div class="details clearfix">
                                     <div class="image" mo-id="list item image">
                                         <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
-                                        <strong>SIÊU KHUYẾN MÃI</strong></div>
+                                            <strong>SIÊU KHUYẾN MÃI</strong></div>
                                         <a href="../../Product/Sealy-Nostromo-Posturepedic-Pocket-1400-Latex-Mattress-P1097.html"
                                             title="View full details about the Sealy Nostromo Posturepedic Pocket 1400 Latex Mattress">
                                             <img src="../../assets/icons/1x1.png" data-lazy-src="{{asset('assets/content/products/280x175/sealy-nostromo-mattress.jpg')}}">
@@ -1617,13 +622,12 @@
                                 <option value="/Shop/Sale-C429/?Page=22">22</option>
                             </select><span class="info-extra"> of 22 </span><a class="x----v5" href="/Shop/Sale-C429/?Page=2"><span
                                     class="glyphicon glyphicon-chevron-right"></span></a></div>
-                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a><a
-                                href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
+                        <div class="x----v3"><span class="x----v3-inline">Trang:&nbsp;</span><strong>1</strong><a href="/Shop/Sale-C429/?Page=2">2</a>
+                            <a href="/Shop/Sale-C429/?Page=3">3</a> … <a href="/Shop/Sale-C429/?Page=22">22</a><a href="/Shop/Sale-C429/?Page=2">Tiếp&gt;</a>
                             | <a href="/Shop/Sale-C429/?ItemsPerPage=0">Tất cả</a></div>
                     </div>
                 </div>
             </div>
-
 
 
         </div>

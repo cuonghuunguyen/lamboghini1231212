@@ -7,16 +7,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<base href="{{asset('/')}}">
-    <link rel="stylesheet" href="assets/css/bootstrap/3.3.7/css/bootstrap.min.css">
+    <base href="{{asset('/')}}">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/app.min41e1.css?v=7e5a5912871416d1a20a009678a8d614" />
     <link rel="stylesheet" href="assets/css/list.css" />
-    <script src="js/jquerymin.js"></script>
+    <script src="js/jquery.min.js"></script>
 </head>
 
 <body>
-    @include('header')
-    @yield('content');
+    @include('header') @yield('content');
     @include('footer')
     <script src="assets/js/app.min4a7d.js?v=dd7c43fda3ba2407cf52ed5a3aa671b6"></script>
     <script type="text/javascript">
@@ -30,7 +29,6 @@
         $('div.menu > ul > li').mouseout(function () {
             $(this).removeClass('hover')
         });
-
     </script>
     <script type="text/javascript">
         ;
@@ -43,14 +41,12 @@
             });
             $('.slide-menu .slide-menu-content').append($('div.header div.menu > ul').clone())
         });
-
     </script>
     <script type="text/javascript">
         ;
         $(document).ready(function () {
             $('#resource-hide').remove()
         });
-
     </script>
 </body>
 
