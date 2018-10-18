@@ -17,7 +17,7 @@
                                 src="http://localhost:8000/content/manufacturers/120x70/mol.png" alt="Mattress Online"
                                 data-mo-processing="true"></a></div>
                     <div class="title">
-                        <h1>Amy Kiddies Cotton Mattress - Choice of Colours</h1>
+                        <h1>Nệm Cotton 100%</h1>
                     </div>
                 </div>
                 <div class="cols product__top-section">
@@ -57,11 +57,11 @@
                                         </select></div>
                                     <div class="price clearfix">
                                         <div class="x____percentage-discount">
-                                            <div class="percent">Up to <span>40%</span> off</div>
+                                            <div class="percent">Giảm tới <span>18%</span></div>
                                         </div>
                                         <div class="x____price-point">
                                             <div class="sale"><span>Chỉ từ&nbsp; </span><span class="price">940.000 VNĐ</span></div>
-                                            <div class="saving x----v5"> Khuyến mãi:  <span>140.000VNĐ</span></div>
+                                            <div class="saving x----v5"> Khuyến mãi: <span>140.000VNĐ</span></div>
                                             <div class="saving x----v5"> Tiết kiệm: 140.000VNĐ </div>
                                         </div>
                                     </div>
@@ -71,8 +71,8 @@
                                             </div>
                                             <div class="delivery" data-toggle="tooltip" data-placement="top" title=""
                                                 data-original-title="Please select from the product options above before choosing a delivery date.">
-                                                <h4>Chọn ngày chuyển hàng:</h4><select class="form-control"
-                                                    disabled="" commersive-delivery-date="">
+                                                <h4>Chọn ngày chuyển hàng:</h4><select class="form-control" disabled=""
+                                                    commersive-delivery-date="">
                                                     <option value="2018-10-13"> Sat, 13th Oct 2018 (+£17.50)
                                                     </option>
                                                     <option value="2018-10-15" selected=""> Mon, 15th Oct 2018 (Free)
@@ -106,25 +106,24 @@
                                             </div>
                                         </div><a onclick="$('#no-options, #mobile-no-options').css('display', 'block');"
                                             class="btn bottom btn-success btn-lg btn-block">Thêm vào giỏ hàng</a>
-                                        <div id="no-options" style="display: none; color: #f6585d;">Chọn tùy chọn kèm theo để thêm vào giỏ hàng</div>
+                                        <div id="no-options" style="display: none; color: #f6585d;">Chọn tùy chọn kèm
+                                            theo để thêm vào giỏ hàng</div>
                                     </div>
                                 </div><!-- mock product variation modal -->
-                                <div class="x____dialogue x----v3" id="purchase-options-dialogue"><span class="x____dialogue__text">Chọn tùy chọn và nhấn vào thêm vào giỏ hàng để thêm sản phẩm vào giỏ hàng</span>
+                                <div class="x____dialogue x----v3" id="purchase-options-dialogue"><span class="x____dialogue__text">Chọn
+                                        tùy chọn và nhấn vào thêm vào giỏ hàng để thêm sản phẩm vào giỏ hàng</span>
                                     <div class="x____dialogue__colwrap"></div><!-- end -->
                                     <div class="actions">
-                                        <!-- Buy --><input onclick="" class="btn btn-success x____btn" value="Buy" type="button"><!-- Cancel --><input
-                                            onclick="" class="btn btn-cancel x____btn" value="Cancel" type="button"></div>
+                                        <!-- Buy --><input onclick="" class="btn btn-success x____btn" value="Mua ngay" type="button"><!-- Cancel --><input
+                                            onclick="" class="btn btn-cancel x____btn" value="Hủy bỏ" type="button"></div>
                                 </div>
                                 <div class="x____dialogue-underlay x----v3"></div>
                             </div><span class="hide-v3"></span>
                             <div class="overview">
-                                <h4 class="x----v5">Summary</h4>
+                                <h4 class="x----v5">Tóm tắt</h4>
                                 <div class="short-description">
-                                    <p> A fantastic value for money mattress and available in a fun selection of
-                                        colours. This
-                                        mattress
-                                        is a great addition to your child's bedroom. <a href="#description" class="read-more no-wrap"
-                                            mo-type="control" mo-id="product more info link" mo-subject="68">more info</a></p>
+                                    <p>Có sẵn những lựa chọn thú vị vềmàu sắc. Nệm này là một bổ sung tuyệt vời cho phòng ngủ của bạn. <a href="#description" class="read-more no-wrap"
+                                            mo-type="control" mo-id="product more info link" mo-subject="68">Nhiều hơn nữa</a></p>
                                 </div>
                                 <div class="mini-benefits">
                                     <div class="benefits">
@@ -139,7 +138,8 @@
 
                                 <div class="guides x----v5">
                                     <ul>
-                                        <li><a href="../Advice%23buying-advice.html#size-guide">Hướng dẫn về chọn kích cỡ đệm</a></li>
+                                        <li><a href="../Advice%23buying-advice.html#size-guide">Hướng dẫn về chọn kích
+                                                cỡ đệm</a></li>
                                         <li><a href="../Delivery.html">Thông tin chuyển giao</a></li>
                                     </ul>
                                 </div>
@@ -151,10 +151,6 @@
                     <div class="options"><span>Tùy chọn của sản phẩm:</span> size Size... size-uk-single Single (3' x
                         6'3") Size...<br><br><br>label: Size <br> Single<br> (3' x 6'3")<br></div>
                     <div class="availability">
-                        <div class="in-stock"> In stock: <div class="delivery-cutoff"> Order in the next <strong>10
-                                    hours 10
-                                    minutes 28 seconds</strong> for delivery on <strong>Saturday, 13th October</strong></div>
-                        </div>
                         <div class="delivery" data-toggle="tooltip" data-placement="top" title="" data-original-title="Please select from the product options above before choosing a delivery date.">
                             <h4>Choose your Delivery Date:</h4><select class="form-control" disabled=""
                                 commersive-delivery-date="">
@@ -187,229 +183,143 @@
                     </div><a onclick="$('#no-options, #mobile-no-options').css('display', 'block');" class="btn bottom btn-success btn-lg btn-block"
                         mo-type="control" mo-id="add to basket cta" mo-action="add to basket" mo-subject="">Add to
                         Basket</a>
-                    <div id="no-options" style="display: none; color: #f6585d;">Please select the options you would
-                        like before
-                        adding to the basket</div>
+                    <div id="no-options" style="display: none; color: #f6585d;">Chọn những tùy chọn bạn muốn trong phần giỏ hàng</div>
                 </div>
                 <div class="x----v3">
                     <div class="purchase-options ">
                         <div class="table ">
                             <div class="row ">
-                                <div class="header group-label">UK Sizes</div>
+                                <div class="header group-label">Kích thước</div>
 
                                 <div class="header saving"></div>
-                                <div class="header price">Price</div>
+                                <div class="header price">Giá</div>
                                 <div class="header buy"></div>
                             </div>
                             <form method="POST" action="https://www.mattressonline.co.uk/Basket">
                                 <div class="row-item group commersive-product" commersive-item="68" commersive-template="v3"
                                     commersive-variation-filter="size=size-uk-single" commersive-use-hash-url="false"><input
                                         type="hidden" commersive-variation="true" name="size" value="size-uk-single">
-                                    <div class="item group-label"><span class="option">Single</span><span class="dimensions">3'
+                                    <div class="item group-label"><span class="option">Nệm đơn</span><span class="dimensions">3'
                                             x
-                                            6'3" / 90cm x 190cm</span><span id="stock-message" class="stock">In
-                                            Stock
-                                            Now</span></div>
+                                            6'3" / 90cm x 190cm</span><span id="stock-message" class="stock">Hiện tại còn hàng</span></div>
                                     <div class="item options">
 
                                     </div>
-                                    <div class="item saving"><span class="list"> List: <strong>£169.95</strong></span><span
-                                            class="saving">You
-                                            save <strong>£75.00</strong></span></div>
-                                    <div class="item price"><span class="sale">You pay <strong>£94.95</strong></span><span
+                                    <div class="item saving"><span class="list"> <strong>840.000 VNĐ</strong></span><span
+                                            class="saving">Bạn tiết kiệm <strong>140.000 VNĐ</strong></span></div>
+                                    <div class="item price"><span class="sale">Bạn thanh toán <strong>800.000 VNĐ</strong></span><span
                                             class="delivery-label">
-                                            Delivered </span></div>
+                                            Chuyển hàng </span></div>
                                     <div class="item buy"><input onclick="$('#no-options-size-uk-single, #mobile-no-options').css('display', 'block');"
-                                            class="btn btn-success x____btn" value="Buy" type="button">
-                                        <div id="no-options-size-uk-single" class="hide-v3" style="display: none; color: #f6585d;">Please
-                                            select the options you would like before adding to the basket</div>
+                                            class="btn btn-success x____btn" value="Mua ngay" type="button">
+                                        <div id="no-options-size-uk-single" class="hide-v3" style="display: none; color: #f6585d;">Tùy chọn trong phần giỏ hàng</div>
                                     </div>
                                 </div>
                             </form>
                         </div>
                     </div>
                     <div id="other-sizes-container" class="other-sizes-container" style="display: none">
-                        <div class="purchase-options__other-sizes-button" onclick="$('.purchase-options--other-sizes').toggle(); $(this).toggleClass('is-toggled')">Other
-                            sizes available</div>
+                        <div class="purchase-options__other-sizes-button" onclick="$('.purchase-options--other-sizes').toggle(); $(this).toggleClass('is-toggled')">Các kích cỡ có sẵn khác</div>
                         <div class="purchase-options purchase-options--other-sizes">
                             <div class="table" id="other-sizes-list"></div>
                         </div>
                     </div>
                 </div><span class="hide-v5"></span>
                 <div class="x____tabs-container">
-                    <ul class="x____tabs-navigation x----v3" mo-id="Product tabs" mo-subject="68">
-                        <li data-tab="colours" mo-value="Colours">Màu sắc</li>
-                        <li data-tab="benefits" class="" mo-value="Benefits">Benefits</li>
-                        <li data-tab="specifications" mo-value="Specifications" class="">Specifications</li>
-                        <li data-tab="description" mo-value="Description" class="is-active">Description</li>
+                    
+                    <input class="tab" id="tab1" type="radio" name="tabs" checked>
+                    <label for="tab1">Lợi ích</label>
 
-                    </ul>
-                    <ul class="x____tabs">
-                        <li data-tab="benefits" class="x____benefits" mo-value="Benefits">
-                            <h2 class="x----v5">Benefits</h2>
-                            <section>
-                                <div>IN STOCK - delivered free next day (or choose your day)</div>
-                                <div>Available in a choice of 5 colours (all kept in stock)</div>
-                                <div>Great value and very comfortable mattress, suitable for children of all ages</div>
-                                <div>13.5 gauge spring unit with 3 deep layers of upholstery</div>
-                                <div>Luxury soft cotton damask cover</div>
-                                <div>Medium feel</div>
-                                <div>Strong perimeter rod edge for mattress longevity</div>
-                                <div>Mattress depth 20cm (8") approximately</div>
-                                <div>1 Year Guarantee</div>
-                                <div>Approved by the National Bed Federation</div>
-                                <div>Made in the UK</div>
+                    <input class="tab"  id="tab2" type="radio" name="tabs">
+                    <label for="tab2">Thông số sản phẩm</label>
+
+                    <input class="tab" id="tab3" type="radio" name="tabs">
+                    <label for="tab3">Kích thước</label>
+
+                    <input class="tab" id="tab4" type="radio" name="tabs">
+                    <label for="tab4">Giao hàng</label>
+
+                    <section class="tab-content" id="content1">
+                            <h2 class="x----v5">Lợi ích</h2>
+                                <section>
+                                <div>Còn hàng</div>
+                                <div>Phù hợp cho mọi lứa tuổi</div>
+                                <div>Mềm mại</div>
+                                <div>Bền chắc, hạn sử dụng lâu dài</div>
+                                <div>Dày 20 cm</div>
+                                <div>1 năm bảo hành</div>
+                                <div>Made in the VN</div>
                             </section>
-                        </li>
-                        <li data-tab="specifications" class="x____specifications" mo-value="Specifications">
+                    </section>
+
+                    <section class="tab-content" id="content2">
                             <h2 class="x----v5">Specifications</h2>
                             <section>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-open-coil.png"
-                                        alt="Open Coil Springs" data-mo-processing="true">
-                                    <h4>Open Coil Springs</h4>
-                                    <p>Open Coil springs are interlaced coils of high tensile steel, joined together by
-                                        a
-                                        steel rod
-                                        edge
-                                        surrounding the springs and interconnecting them. Most common sprung mattresses
-                                        are
-                                        built
-                                        using
-                                        open coil springs.</p>
-                                </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-white-fibre.png"
                                         alt="Soft White Fibres" data-mo-processing="true">
-                                    <h4>Soft White Fibres</h4>
-                                    <p>Layers of plush and pampering soft white fibres - giving you a comfortable sleep
-                                        experience
-                                        whilst
-                                        staying comfortably affordable too</p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-damask-cover.png"
-                                        alt="Woven Damask Cover" data-mo-processing="true">
-                                    <h4>Woven Damask Cover</h4>
-                                    <p>The mattress is covered in a pampering and durable woven damask fabric.</p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-medium-feel.png"
-                                        alt="Medium" data-mo-processing="true">
-                                    <h4>Medium</h4>
-                                    <p>The ideal balance between a cushioned feel and a firmer level of support.</p>
+                                    <h4>Mềm mại</h4>
+                                    <p>Sự mềm mại - mang lại cho bạn trải nghiệm ngủ thoải mái trong khi sản phẩm sở hữu mức giá phải chăng</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/matt-depth-text-20.png"
                                         alt="20cm" data-mo-processing="true">
-                                    <h4>20cm</h4>
-                                    <p>Mattress depth 20cm (7.9") approximately.</p>
+                                    <h4>Dày 20cm</h4>
+                                    <p>Nệm dày 20cm (7.9").</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-turntable.png"
                                         alt="Turnable Mattress" data-mo-processing="true">
-                                    <h4>Turnable Mattress</h4>
-                                    <p>Double sided turnable mattress - fillings on both sides - please turn regularly</p>
+                                    <h4>Có thể gập lại</h4>
+                                    <p>Nệm hai mặt có thể gập lại</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-1-yr-guarantee.png"
                                         alt="Guarantee: 1 Year" data-mo-processing="true">
-                                    <h4>Guarantee: 1 Year</h4>
-                                    <p>This item benefits from a 1 year guarantee.</p>
+                                    <h4>Bảo hành: 1 năm</h4>
+                                    <p>Sản phẩm có 1 năm bảo hành.</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-made-in-uk.png"
                                         alt="Made in the UK" data-mo-processing="true">
-                                    <h4>Made in the UK</h4>
-                                    <p>This item has been manufactured in the UK</p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/bs7177-low.png"
-                                        alt="Fire Resistant - Low Hazard" data-mo-processing="true">
-                                    <h4>Fire Resistant - Low Hazard</h4>
-                                    <p>This product conforms to the BS7177: 2008 standard for domestic use (low hazard)
-                                        -
-                                        ideal for
-                                        use
-                                        at home</p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/nbf-approved.png"
-                                        alt="NBF Approved Product" data-mo-processing="true">
-                                    <h4>NBF Approved Product</h4>
-                                    <p>Peace of mind and reassurance - the manufacturer of this item is an approved
-                                        member
-                                        of the
-                                        National Bed Federation's Code of Practice. <a href="../NBF.html" title="Link to National Bed Federation details">Click
-                                            here for more details</a></p>
+                                    <h4>Made in the Vietnam</h4>
+                                    <p>Sản phẩm sản xuất tại Việt Nam</p>
                                 </div>
                             </section>
-                        </li>
-                        <li data-tab="description" class="x____description is-active" mo-value="Description">
-                            <h2 class="x----v5">Description</h2>
+                    </section>
+
+                    <section class="tab-content" id="content3">
+                            <h2 class="x----v5">Kích thước</h2>
                             <section>
                                 <div>
-                                    <p>Our <strong>Amy Kiddies Cotton Mattress</strong> is great for kids of all ages.</p>
-                                    <p>You'll benefit from a strong yet <strong>comfortable</strong> 13.5 gauge open
-                                        coil
-                                        spring
-                                        unit,
-                                        and a luxurious soft-touch cotton cover offering a <strong>medium feel</strong>.</p>
-                                    <p>You'll be able to match the theme of any bedroom, as this mattress is available
-                                        in a
-                                        gorgeous
-                                        choice of 5 colours - pink, lilac, navy, red and cream. We keep all colours in
-                                        stock for
-                                        <strong>next
-                                            day delivery</strong>, too!</p>
-                                    <p>This mattress is approximately 8" deep (20cm) and has 3 deep layers of
-                                        upholstery
-                                        for added
-                                        comfort. It's hand tufted and uses a strong supporting rod edge around the
-                                        springs
-                                        to
-                                        increase the
-                                        <strong>longevity</strong> of the mattress.</p>
-                                    <p>It's ideal for most bunk beds and is suitable for children of all ages.</p>
+                                    <p><strong>Chiều rộng</strong>: 40cm (16")</p>
+                                    <p><strong>Chiều dài</strong>: 60cm (24")</p><br>
                                 </div>
                             </section>
-                        </li>
-                        <li data-tab="colours" class="x____colours" mo-value="Colours">
-                            <h2 class="x----v5">Colours</h2>
-                            <section>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/kiddies_cotton_matt_cream.jpg"
-                                        alt="Cream" data-mo-processing="true">
-                                    <h4>Cream</h4>
-                                    <p></p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/kiddies_cotton_matt_navy.jpg"
-                                        alt="Navy" data-mo-processing="true">
-                                    <h4>Navy</h4>
-                                    <p></p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/kiddies_cotton_matt_pink.jpg"
-                                        alt="Pink" data-mo-processing="true">
-                                    <h4>Pink</h4>
-                                    <p></p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/kiddies_cotton_matt_lilac.jpg"
-                                        alt="Lilac" data-mo-processing="true">
-                                    <h4>Lilac</h4>
-                                    <p></p>
-                                </div>
-                                <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/kiddies_cotton_matt_red.jpg"
-                                        alt="Red" data-mo-processing="true">
-                                    <h4>Red</h4>
-                                    <p></p>
-                                </div>
-                            </section>
-                        </li>
+                    </section>
 
-                    </ul>
+                    <section class="tab-content" id="content4">
+                            <h2 class="x----v5">Delivery</h2>
+                            <section>
+                                <div>
+                                    <h4></h4>
+                                    <p>
+                                        </p><p style="font-size:110%"><b>Chọn ngày giao hàng hoặc giao trong ngày mai</b></p>
+                                        <p style="font-size:100%">Khi còn hàng, sau khi đặt đơn hàng sẽ chuyển giao cho bạn vào 4h chiều ngày hôm sau</p>
+                                        <p style="font-size:100%">Nếu bạn không muốn ngày chuyển là ngày mai, hãy chọn ngày chuyển hàng trong phần giỏ hàng</p><br>
+                                    <p></p>
+                                </div>
+                            </section>
+                    </section>
                 </div>
                 <div id="reviews" class="reviews" data-mobile-index="14">
-                    
+
                     <section class="all expanded">
                         <div class="info">
                             <div class="total">
-                                <span class="ng-binding">4</span> Comments
+                                <span class="ng-binding">4</span> Bình luận
                             </div>
                             <div class="addComment">
-                                <a><span class="ink animate" style="height: 126px; width: 126px; top: -45px; left: 13.3906px;"></span>Add
-                                    Comment</a>
+                                <a><span class="ink animate" style="height: 126px; width: 126px; top: -45px; left: 13.3906px;"></span>Thêm
+                                    Bình luận</a>
                             </div>
                         </div>
-                        <div class="list-comment"  style="max-height: 140px;">
+                        <div class="list-comment" style="max-height: 140px;">
                             <!-- ngRepeat: comment in commentList -->
                             <section ng-repeat="comment in commentList" repeat-done="commentsRendered()" class="ng-scope">
                                 <div class="comment-row">
@@ -418,9 +328,9 @@
                                             alt="" src="https://thoughtcatalog.files.wordpress.com/2018/01/kyle-smith-528234-e1516823451262.jpg?w=192&amp;h=192&amp;crop=1&amp;resize=192,192&amp;quality=95&amp;strip=all">
                                     </div>
                                     <div class="commentDetails">
-                                        <span class="commentUser ng-binding">Chelsea Dinen</span>
+                                        <span class="commentUser ng-binding">Nguyễn Văn A</span>
                                         <span class="commentDate ng-binding">07 Apr 11:29</span>
-                                        <div class="commentText ng-binding">There should be a nice view up there!</div>
+                                        <div class="commentText ng-binding">Hàng chất lượng!</div>
                                     </div>
                                 </div>
                             </section><!-- end ngRepeat: comment in commentList -->
@@ -431,10 +341,9 @@
                                             alt="" src="https://s-media-cache-ak0.pinimg.com/236x/6e/74/6e/6e746edc42d8f1b4d78c9b8772fdc214.jpg">
                                     </div>
                                     <div class="commentDetails">
-                                        <span class="commentUser ng-binding">Arne Hjeltnes</span>
+                                        <span class="commentUser ng-binding">Nguyễn Văn B</span>
                                         <span class="commentDate ng-binding">07 Apr 14:21</span>
-                                        <div class="commentText ng-binding">Me too I did skydiving once, it was a
-                                            memorable experience!</div>
+                                        <div class="commentText ng-binding">Chuyển hàng nhanh!</div>
                                     </div>
                                 </div>
                             </section><!-- end ngRepeat: comment in commentList -->
@@ -445,9 +354,9 @@
                                             alt="" src="http://www.opry.com/sites/default/files/artist_profile_photo/saraevans_profile_0.jpg">
                                     </div>
                                     <div class="commentDetails">
-                                        <span class="commentUser ng-binding">Sarah Evans</span>
+                                        <span class="commentUser ng-binding">Nguyễn Văn C</span>
                                         <span class="commentDate ng-binding">07 Apr 23:15</span>
-                                        <div class="commentText ng-binding">Amazing, I would love to try!</div>
+                                        <div class="commentText ng-binding">Chuyển hàng nhanh!</div>
                                     </div>
                                 </div>
                             </section><!-- end ngRepeat: comment in commentList -->
@@ -458,10 +367,9 @@
                                             alt="" src="https://lh6.googleusercontent.com/-oHRHcrzkBtU/AAAAAAAAAAI/AAAAAAAAAAA/uaXYj35Cwvw/s96-c/photo.jpg">
                                     </div>
                                     <div class="commentDetails">
-                                        <span class="commentUser ng-binding">Maurizio Paletti</span>
+                                        <span class="commentUser ng-binding">Nguyễn Văn D</span>
                                         <span class="commentDate ng-binding">08 Apr 12:46</span>
-                                        <div class="commentText ng-binding">Yes, it was a great experience, although
-                                            until the parachute opens you feel like a turkey on Thanksgiving Day!</div>
+                                        <div class="commentText ng-binding">Hàng chất lượng!</div>
                                     </div>
                                 </div>
                             </section><!-- end ngRepeat: comment in commentList -->
@@ -472,8 +380,6 @@
                         </div>
                     </section>
                     <style>
-                        
-
                         section.all {
                             padding: 20px 10px 15px 10px
                         }
@@ -737,9 +643,11 @@
                                 transform: scale(1)
                             }
                         }
+
                         .expandWrap {
                             padding-top: 13px;
                         }
+
                     </style>
                 </div>
             </div>
@@ -774,27 +682,28 @@
 
 </script>
 <script>
-var listHeight = '140px';
+    var listHeight = '140px';
 
 
-$('.expandWrap').toggle($('.list-comment').prop('scrollHeight') > $('.list-comment').height());
-  // comment expander
-  $('.toggleList a').click(function() {
-    $('.toggleList').toggleClass('toggleExpanded');
-    $('section.all').toggleClass('expanded');
-    $('.mask').toggle();
+    $('.expandWrap').toggle($('.list-comment').prop('scrollHeight') > $('.list-comment').height());
+    // comment expander
+    $('.toggleList a').click(function () {
+        $('.toggleList').toggleClass('toggleExpanded');
+        $('section.all').toggleClass('expanded');
+        $('.mask').toggle();
 
-    var scrollHeight = $('.list-comment').prop('scrollHeight');
-    var height = $('.list-comment').height();
+        var scrollHeight = $('.list-comment').prop('scrollHeight');
+        var height = $('.list-comment').height();
 
-    if (scrollHeight === height) // collapse
-      $('.list-comment').css('max-height', listHeight);
-    else // expand
-      $('.list-comment').css('max-height', `${scrollHeight}px`);
-  });
+        if (scrollHeight === height) // collapse
+            $('.list-comment').css('max-height', listHeight);
+        else // expand
+            $('.list-comment').css('max-height', `${scrollHeight}px`);
+    });
 
 
-  // default list height
-  $('.list-comment').css('max-height', listHeight);
+    // default list height
+    $('.list-comment').css('max-height', listHeight);
+
 </script>
 @endsection
