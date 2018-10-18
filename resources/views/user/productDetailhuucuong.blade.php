@@ -17,7 +17,7 @@
                                 src="http://localhost:8000/content/manufacturers/120x70/mol.png" alt="Mattress Online"
                                 data-mo-processing="true"></a></div>
                     <div class="title">
-                        <h1>Nệm Cotton 100%</h1>
+                        <h1>ĐỆM LÒ XO DAIHAN 6 SAO</h1>
                     </div>
                 </div>
                 <div class="cols product__top-section">
@@ -53,56 +53,21 @@
                                             name="size" commersive-variation="true">
                                             <option value="">Size...</option>
                                             <option value=""></option>
-                                            <option value="size-uk-single">Single (3' x 6'3")</option>
+                                            <option value="size-uk-single"></option>
                                         </select></div>
                                     <div class="price clearfix">
                                         <div class="x____percentage-discount">
-                                            <div class="percent">Giảm tới <span>18%</span></div>
+                                            <div class="percent">Giảm tới <span>20%</span></div>
                                         </div>
                                         <div class="x____price-point">
-                                            <div class="sale"><span>Chỉ từ&nbsp; </span><span class="price">940.000 VNĐ</span></div>
-                                            <div class="saving x----v5"> Khuyến mãi: <span>140.000VNĐ</span></div>
-                                            <div class="saving x----v5"> Tiết kiệm: 140.000VNĐ </div>
+                                            <div class="sale"><span>Chỉ từ&nbsp; </span><span class="price">16.720.000 VNĐ</span></div>
+                                            <div class="saving x----v5"> Khuyến mãi: <span>4.180.000 VNĐ</span></div>
+                                            <div class="saving x----v5"> Tiết kiệm: 4.180.000 VNĐ </div>
                                         </div>
                                     </div>
                                     <div class="x----v5">
                                         <div class="availability">
                                             <div class="in-stock"> Còn hàng
-                                            </div>
-                                            <div class="delivery" data-toggle="tooltip" data-placement="top" title=""
-                                                data-original-title="Please select from the product options above before choosing a delivery date.">
-                                                <h4>Chọn ngày chuyển hàng:</h4><select class="form-control" disabled=""
-                                                    commersive-delivery-date="">
-                                                    <option value="2018-10-13"> Sat, 13th Oct 2018 (+£17.50)
-                                                    </option>
-                                                    <option value="2018-10-15" selected=""> Mon, 15th Oct 2018 (Free)
-                                                    </option>
-                                                    <option value="2018-10-16"> Tue, 16th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-17"> Wed, 17th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-18"> Thu, 18th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-19"> Fri, 19th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-20"> Sat, 20th Oct 2018 (+£17.50)
-                                                    </option>
-                                                    <option value="2018-10-22"> Mon, 22nd Oct 2018 (Free) </option>
-                                                    <option value="2018-10-23"> Tue, 23rd Oct 2018 (Free) </option>
-                                                    <option value="2018-10-24"> Wed, 24th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-25"> Thu, 25th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-26"> Fri, 26th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-27"> Sat, 27th Oct 2018 (+£17.50)
-                                                    </option>
-                                                    <option value="2018-10-29"> Mon, 29th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-30"> Tue, 30th Oct 2018 (Free) </option>
-                                                    <option value="2018-10-31"> Wed, 31st Oct 2018 (Free) </option>
-                                                    <option value="2018-11-01"> Thu, 1st Nov 2018 (Free) </option>
-                                                    <option value="2018-11-02"> Fri, 2nd Nov 2018 (Free) </option>
-                                                    <option value="2018-11-03"> Sat, 3rd Nov 2018 (+£17.50)
-                                                    </option>
-                                                    <option value="2018-11-05"> Mon, 5th Nov 2018 (Free) </option>
-                                                    <option value="2018-11-06"> Tue, 6th Nov 2018 (Free) </option>
-                                                    <option value="2018-11-07"> Wed, 7th Nov 2018 (Free) </option>
-                                                    <option value="2018-11-08"> Thu, 8th Nov 2018 (Free) </option>
-                                                    <option value="2018-11-09"> Fri, 9th Nov 2018 (Free) </option>
-                                                </select>
                                             </div>
                                         </div><a onclick="$('#no-options, #mobile-no-options').css('display', 'block');"
                                             class="btn bottom btn-success btn-lg btn-block">Thêm vào giỏ hàng</a>
@@ -122,7 +87,7 @@
                             <div class="overview">
                                 <h4 class="x----v5">Tóm tắt</h4>
                                 <div class="short-description">
-                                    <p>Có sẵn những lựa chọn thú vị vềmàu sắc. Nệm này là một bổ sung tuyệt vời cho phòng ngủ của bạn. <a href="#description" class="read-more no-wrap"
+                                    <p>Có sẵn những lựa chọn thú vị vềmàu sắc. Đệm này là một bổ sung tuyệt vời cho phòng ngủ của bạn. <a href="#description" class="read-more no-wrap"
                                             mo-type="control" mo-id="product more info link" mo-subject="68">Nhiều hơn nữa</a></p>
                                 </div>
                                 <div class="mini-benefits">
@@ -199,15 +164,13 @@
                                 <div class="row-item group commersive-product" commersive-item="68" commersive-template="v3"
                                     commersive-variation-filter="size=size-uk-single" commersive-use-hash-url="false"><input
                                         type="hidden" commersive-variation="true" name="size" value="size-uk-single">
-                                    <div class="item group-label"><span class="option">Nệm đơn</span><span class="dimensions">3'
-                                            x
-                                            6'3" / 90cm x 190cm</span><span id="stock-message" class="stock">Hiện tại còn hàng</span></div>
+                                    <div class="item group-label"><span class="option">Đệms đơn</span><span class="dimensions">120*190</span><span id="stock-message" class="stock">Hiện tại còn hàng</span></div>
                                     <div class="item options">
 
                                     </div>
-                                    <div class="item saving"><span class="list"> <strong>840.000 VNĐ</strong></span><span
-                                            class="saving">Bạn tiết kiệm <strong>140.000 VNĐ</strong></span></div>
-                                    <div class="item price"><span class="sale">Bạn thanh toán <strong>800.000 VNĐ</strong></span><span
+                                    <div class="item saving"><span class="list"> <strong>20.900.000 VNĐ</strong></span><span
+                                            class="saving">Bạn tiết kiệm <strong>4.180.000 VNĐ</strong></span></div>
+                                    <div class="item price"><span class="sale">Bạn thanh toán <strong>4.180.000 VNĐ</strong></span><span
                                             class="delivery-label">
                                             Chuyển hàng </span></div>
                                     <div class="item buy"><input onclick="$('#no-options-size-uk-single, #mobile-no-options').css('display', 'block');"
@@ -263,12 +226,12 @@
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/matt-depth-text-20.png"
                                         alt="20cm" data-mo-processing="true">
                                     <h4>Dày 20cm</h4>
-                                    <p>Nệm dày 20cm (7.9").</p>
+                                    <p>Đệm dày 20cm (7.9").</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-turntable.png"
                                         alt="Turnable Mattress" data-mo-processing="true">
                                     <h4>Có thể gập lại</h4>
-                                    <p>Nệm hai mặt có thể gập lại</p>
+                                    <p>Đệm hai mặt có thể gập lại</p>
                                 </div>
                                 <div><img src="../assets/icons/1x1.png" data-lazy-src="http://localhost:8000/content/features/44x44/icon-1-yr-guarantee.png"
                                         alt="Guarantee: 1 Year" data-mo-processing="true">
@@ -287,14 +250,14 @@
                             <h2 class="x----v5">Kích thước</h2>
                             <section>
                                 <div>
-                                    <p><strong>Chiều rộng</strong>: 40cm (16")</p>
-                                    <p><strong>Chiều dài</strong>: 60cm (24")</p><br>
+                                    <p><strong>Chiều rộng</strong>: 120cm</p>
+                                    <p><strong>Chiều dài</strong>: 190cm</p><br>
                                 </div>
                             </section>
                     </section>
 
                     <section class="tab-content" id="content4">
-                            <h2 class="x----v5">Delivery</h2>
+                            <h2 class="x----v5">Chuyển hàng</h2>
                             <section>
                                 <div>
                                     <h4></h4>
