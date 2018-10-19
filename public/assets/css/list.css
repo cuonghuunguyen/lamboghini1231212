@@ -6,6 +6,11 @@
     text-align: left;
 }
 
+.add-cart-xs {
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+}
 @media (min-width: 768px) {
     .price-list {
         display: none;

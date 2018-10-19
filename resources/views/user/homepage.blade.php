@@ -22,8 +22,9 @@
                                 class="x____basic-item__upto-percent">Giảm  <span class="x____basic-item__savings">55%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">BIG
-                                BRAND <strong>SALE</strong></div><a href="/product-detail"
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIỆU KHUYẾN MÃI LỚN
+                            </div><a href="/product-detail"
                                 title="View full details about the Sealy Posturepedic Pearl Luxury Mattress" ><img
                                     width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/sealy-pearl-luxury-mattress-full.jpg')}}"></a>
                         </div>
@@ -39,10 +40,12 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Single-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">3</span>
-                                    Medium </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
+                                <button class="btn btn-large add-cart-xs btn-success">
+                                    Thêm vào giỏ hàng
+                                </button>
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>
@@ -55,7 +58,9 @@
                                 class="x____basic-item__upto-percent">Giảm <span class="x____basic-item__savings">45%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">Chi nhánh lớn <strong>Bán</strong></div><a href="/product-detail"
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIỆU KHUYẾN MÃI LỚN
+                            </div><a href="/product-detail"
                                 title="View full details about the Layezee Comfort Memory Pillow Top Mattress" ><img
                                     width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/layezee-comfort-memory-pillow-top-full.jpg')}}"></a>
                         </div>
@@ -71,10 +76,9 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Single-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">4</span>
-                                    Medium to Firm </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>
@@ -87,8 +91,9 @@
                                 class="x____basic-item__upto-percent">Giảm <span class="x____basic-item__savings">30%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">BIG
-                                BRAND <strong>SALE</strong></div><a href="/product-detail"
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIÊU KHUYẾN MÃI LỚN    
+                            </div><a href="/product-detail"
                                 title="View full details about the Silentnight Sofia 1200 Mirapocket Mattress" ><img
                                     width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/silentnight-sofia-mattress-full-2018-overlay.jpg')}}"></a>
                         </div>
@@ -104,10 +109,10 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Double-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">4</span>
-                                    Medium to Firm </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
+                                    
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>
@@ -123,8 +128,9 @@
                                 class="x____basic-item__upto-percent">Giảm <span class="x____basic-item__savings">45%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">BIG
-                                BRAND <strong>SALE</strong></div><a href="/product-detail"
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIÊU KHUYẾN MÃI LỚN     
+                            </div><a href="/product-detail"
                                 title="View full details about the Luna Memory 2000 Pocket Mattress" ><img
                                     width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/luna-memory-1000-pocket-mattress-4.jpg')}}"></a>
                         </div>
@@ -140,10 +146,9 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Single-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">4</span>
-                                    Medium to Firm </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>
@@ -156,11 +161,12 @@
                                 class="x____basic-item__upto-percent">Giảm <span class="x____basic-item__savings">30%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">BIG
-                                BRAND <strong>SALE</strong></div><a href="/product-detail"
-                                title="View full details about the Silentnight London 2000 Mirapocket Memory Mattress"
-                                src=assets/icons/1x1.png
-                                    data-lazy-src="{{asset('assets/content/products/280x175/silentnight-london-mattress-corner-update.jpg')}}"></a>
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIÊU KHUYẾN MÃI LỚN
+                            </div><a href="/product-detail"
+                                title="View full details about the Silentnight London 2000 Mirapocket Memory Mattress">
+                                <img width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/luna-memory-1000-pocket-mattress-4.jpg')}}">
+                                </a>
                         </div>
                         <div class="x____basic-item__main" mo-impression>
                             <div class="x____basic-item__title"><a href="/product-detail"
@@ -174,10 +180,9 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Single-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">3</span>
-                                    Medium </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>
@@ -190,8 +195,9 @@
                                 class="x____basic-item__upto-percent">Giảm <span class="x____basic-item__savings">65%</span>
                                 </span></div>
                         <div class="x____basic-item__img">
-                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">BIG
-                                BRAND <strong>SALE</strong></div><a href="/product-detail"
+                            <div class="product-overlay product-overlay--category" style=" background-color: #0f4b5f; color: #ffffff; ">
+                                THƯƠNG HIÊU KHUYẾN MÃI LỚN    
+                            </div><a href="/product-detail"
                                 title="View full details about the Memory Zone Pocket 2000 Mattress" ><img
                                     width="194" height="121" src=assets/icons/1x1.png data-lazy-src="{{asset('assets/content/products/280x175/memory-zone-pocket-2000-mattress-new.jpg')}}"></a>
                         </div>
@@ -207,10 +213,9 @@
                                 </div>
                             </div>
                             <div class="x____basic-item__footer clearfix">
-                                <div class="x____basic-item__type visible-xs"><strong>Type:</strong> Single-Sided
-                                    Mattress </div>
-                                <div class="x____basic-item__firmness visible-xs"><strong>Firmness:</strong><span class="firmness-rating">3</span>
-                                    Medium </div>
+                                <div class="x____basic-item__type visible-xs"><strong>Loại:</strong>
+                                    Nệm đơn
+                                </div>
                                 <a class="btn x____btn--square hidden-xs"
                                     href="/product-detail" id="featured-product-view-button"
                                     >Xem</a>

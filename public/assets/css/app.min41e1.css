@@ -9925,11 +9925,11 @@ ul.manufacturer-list:after {
 }
 
 body {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 h1 {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     font-weight: 700;
     color: #333;
     border-bottom: 1px solid #dedede;
@@ -9938,7 +9938,7 @@ h1 {
 }
 
 h2 {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     font-size: 18pt;
     margin-left: 15px;
     margin-right: 15px
@@ -9946,11 +9946,11 @@ h2 {
 
 h3,
 h4 {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 a {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #1691c2;
     text-decoration: underline
 }
@@ -9974,7 +9974,7 @@ a.btn:visited {
 
 li,
 p {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     line-height: 1.8em
 }
 
@@ -17866,7 +17866,7 @@ div.recommendations {
     div.header div.table div.top div.contact * {
         color: #656565;
         text-align: right;
-        font-family: Tahoma, Geneva, sans-serif !important
+        font-family: Times New Roman, Times, serif !important
     }
 
     div.header div.table div.top div.contact {
@@ -17903,7 +17903,7 @@ div.recommendations {
     }
 
     div#mini-basket * {
-        font-family: Tahoma, Geneva, sans-serif
+        font-family: Times New Roman, Times, serif
     }
 
     div#mini-basket {
@@ -18215,7 +18215,7 @@ div.recommendations {
     h3,
     h4,
     h5 {
-        font-family: Arial, Geneva, sans-serif
+        font-family: Times New Roman, Times, serif
     }
 
     h2 {
@@ -18275,7 +18275,7 @@ div.recommendations {
         text-transform: uppercase;
         border-right: 1px solid #fff;
         height: auto;
-        font-family: Arial, Geneva, sans-serif !important
+        font-family: Times New Roman, Times, serif !important
     }
 
     div.header div.menu>ul>li>a:hover {
@@ -18311,7 +18311,7 @@ div.recommendations {
     }
 
     #vertical-nav * {
-        font-family: Arial, Geneva, sans-serif !important
+        font-family: Times New Roman, Times, serif !important
     }
 
     #vertical-nav {
@@ -18408,7 +18408,7 @@ div.recommendations {
 
     #vertical-nav li .first {
         background: #00A0DF;
-        font-family: Open Sans, Arial, "Lucida Grande", sans-serif !important;
+        font-family: Times New Roman, Times, serif !important;
         border-radius: 2px 2px 0 0
     }
 
@@ -18432,7 +18432,7 @@ div.recommendations {
     }
 
     div#mini-basket div.basket-title h5 {
-        font-family: Open Sans, Arial, "Lucida Grande", sans-serif !important;
+        font-family: Times New Roman, Times, serif !important;
         font-size: 100%;
         background-image: url(/assets/icons/basket--small--white.svg);
         background-color: none;
@@ -18449,14 +18449,14 @@ div.recommendations {
         text-transform: uppercase;
         display: block;
         margin-bottom: 5px;
-        font-family: Tahoma, Geneva, sans-serif
+        font-family: Times New Roman, Times, serif
     }
 
     .column-navigation h5 strong {
         font-size: 180%;
         font-weight: 400;
         display: block;
-        font-family: Tahoma, Geneva, sans-serif;
+        font-family: Times New Roman, Times, serif;
         margin-top: 1px
     }
 
@@ -18489,7 +18489,7 @@ div.recommendations {
 
     .breadcrumbs,
     .breadcrumbs * {
-        font-family: Tahoma, Geneva, sans-serif !important;
+        font-family: Times New Roman, Times, serif !important;
         color: #565656
     }
 
@@ -18925,7 +18925,7 @@ div.recommendations {
 
     .read-more-content,
     p {
-        font-family: Tahoma, Geneva, sans-serif !important;
+        font-family: Times New Roman, Times, serif !important;
         font-size: 1.01em;
         line-height: 135%
     }
@@ -19214,7 +19214,7 @@ div.recommendations {
     }
 
     .price-cube li * {
-        font-family: Tahoma, Geneva, sans-serif !important
+        font-family: Times New Roman, Times, serif !important
     }
 
     .price-cube li h4 {
@@ -19356,7 +19356,7 @@ div.recommendations {
     }
 
     div.facet-list * {
-        font-family: Tahoma, Geneva, sans-serif
+        font-family: Times New Roman, Times, serif
     }
 
     div.facet-list__buttons {
@@ -19460,7 +19460,7 @@ div.recommendations {
     }
 
     div.pagination-list {
-        font-family: Tahoma, Geneva, sans-serif !important;
+        font-family: Times New Roman, Times, serif !important;
         color: #565656;
         font-size: .9em
     }
@@ -19954,7 +19954,7 @@ div.recommendations {
 
     .x____price-point .sale .price {
         font-size: 24px !important;
-        font-family: Arial, Geneva, sans-serif !important
+        font-family: Times New Roman, Times, serif !important
     }
 
     div.product.full div.mobile-content div.purchase div.price div.sale span:first-child,
@@ -20962,7 +20962,7 @@ div.recommendations {
         font-weight: 400;
         margin-top: 5px;
         font-size: 18px;
-        color: #333;
+        color: #046743;
         border-bottom: 1px solid #dedede;
         padding-bottom: 10px;
         margin-bottom: 20px
@@ -20981,7 +20981,7 @@ div.recommendations {
     }
 
     .x____basic-item * {
-        font-family: Arial, Geneva, sans-serif
+        font-family: Times New Roman, Times, serif
     }
 
     .x____basic-item:nth-child(4n) {
@@ -21770,8 +21770,9 @@ div.recommendations {
 
     .x____basic-item__header {
         position: absolute;
-        bottom: 20px;
-        right: 4px
+        top: 11px;
+        left: 3px;
+        z-index: 98;
     }
 
     .x____basic-item__title {
@@ -21784,23 +21785,23 @@ div.recommendations {
     }
 
     .x____basic-item__upto-percent {
+        display: block;
         color: #e03a28;
-        font-weight: 700;
+        font-weight: bold;
         font-size: .8em;
-        padding: 12px 10px;
+        padding: 9px 3px;
         border: 1px #e03a28 solid;
-        background-color: #fff
+        /* border-radius: 50%; */
+        background-color: #ffffffe3;
     }
 
     .x____basic-item__from-price {
         position: absolute;
-        bottom: 10px;
-        right: 115px;
-        max-width: 90px;
+        top: 86px;
         font-size: 1.8em;
         text-align: right;
         font-weight: 700;
-        line-height: 1.2
+        line-height: 1.2;
     }
 
     .x____basic-item__from-price span {
@@ -22309,7 +22310,7 @@ div.recommendations {
 }
 
 .global-contact * {
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif !important
+    font-family: Times New Roman, Times, serif !important
 }
 
 .global-contact__intro {
@@ -22761,7 +22762,7 @@ div.recommendations {
     background-color: #CA3947;
     text-decoration: none;
     font-size: 1.5rem;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     line-height: 1.4
 }
 
@@ -22847,7 +22848,7 @@ div.recommendations {
 
 .push-alert {
     background-color: #CA3947;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #fff;
     padding: 8px;
     position: fixed;
@@ -23258,12 +23259,12 @@ body.salesCamp--pushAlertActive {
 }
 
 .salesCamp--recycle-week .push-alert__title p {
-    font-family: Open Sans, Tahoma, Geneva, sans-serif !important;
+    font-family: Times New Roman, Times, serif !important;
     font-weight: 100
 }
 
 .salesCamp--recycle-week .push-alert__title p strong {
-    font-family: Open Sans, Tahoma, Geneva, sans-serif !important;
+    font-family: Times New Roman, Times, serif !important;
     font-weight: 600
 }
 
@@ -23310,7 +23311,7 @@ body.salesCamp--pushAlertActive {
 .salesCamp--recycle-week .push-alert__cta div.button {
     display: inline;
     font-weight: 100;
-    font-family: Open Sans, Tahoma, Geneva, sans-serif !important
+    font-family: Times New Roman, Times, serif !important
 }
 
 .salesCamp--recycle-week .push-alert__content {
@@ -23370,7 +23371,7 @@ body.salesCamp--pushAlertActive {
 .salesCamp--black-friday-2k17 .countdown {
     position: relative;
     background: #222;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 .salesCamp--black-friday-2k17 .countdown__title {
@@ -23480,7 +23481,7 @@ body.salesCamp--pushAlertActive {
 .salesCamp--cyber-monday-2k17 .countdown {
     position: relative;
     background: #222;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 .salesCamp--cyber-monday-2k17 .countdown__title {
@@ -23584,7 +23585,7 @@ body.salesCamp--pushAlertActive {
 
 .salesCamp--seafoam .countdown {
     position: relative;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #226c63;
     background: #c6faf3
 }
@@ -23686,7 +23687,7 @@ body.salesCamp--pushAlertActive {
 
 .salesCamp--red-rum .countdown {
     position: relative;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #fff;
     background: #bc3236
 }
@@ -23788,7 +23789,7 @@ body.salesCamp--pushAlertActive {
 
 .salesCamp--royal-blue .countdown {
     position: relative;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #fff;
     background: #2c3650
 }
@@ -23884,7 +23885,7 @@ body.salesCamp--pushAlertActive {
 
 .salesCamp--magentle .countdown {
     position: relative;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+    font-family: Times New Roman, Times, serif;
     color: #fff;
     background: #c33d67
 }
@@ -24565,12 +24566,12 @@ body.salesCamp--pushAlertActive {
 
 .header__top-banner a {
     color: #fff;
-    font-family: Open Sans, Tahoma, Geneva, sans-serif !important;
+    font-family: Times New Roman, Times, serif !important;
     text-decoration: none
 }
 
 .header__top-banner a strong {
-    font-family: Open Sans, Tahoma, Geneva, sans-serif !important;
+    font-family: Times New Roman, Times, serif !important;
     font-weight: 600
 }
 
@@ -24757,7 +24758,7 @@ body.salesCamp--pushAlertActive {
         position: relative;
         text-align: right;
         line-height: 1.3;
-        font-family: Open Sans, Arial, "Lucida Grande", sans-serif;
+        font-family: Times New Roman, Times, serif;
         vertical-align: top;
         margin-top: 12px;
         font-size: 12px;
@@ -24767,7 +24768,7 @@ body.salesCamp--pushAlertActive {
 
 .header__phone-number {
     font-size: 22px;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 .header__basket {
@@ -24863,7 +24864,7 @@ body.salesCamp--pushAlertActive {
     vertical-align: top;
     color: #2F3C40;
     transition: box-shadow .1s ease-out;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 @media all and (min-width:767px) {
@@ -25038,7 +25039,7 @@ body.salesCamp--pushAlertActive {
     text-decoration: none;
     border-bottom: 1px solid #E6EFF1;
     position: relative;
-    font-family: Open Sans, Arial, "Lucida Grande", sans-serif
+    font-family: Times New Roman, Times, serif
 }
 
 .nav__link,
@@ -27051,7 +27052,7 @@ html.has-scroll-disabled {
 }
 
 .price-cube li * {
-    font-family: Tahoma, Geneva, sans-serif !important
+    font-family: Times New Roman, Times, serif !important
 }
 
 .price-cube li h4 {
