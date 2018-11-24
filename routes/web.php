@@ -38,3 +38,7 @@ Route::get('/list', function () {
 Route::get('/product-detail', function () {
     return view('user.productDetailhuucuong');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
